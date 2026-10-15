@@ -1,0 +1,11 @@
+﻿test_id,review,predicted_sentiment,status
+1,The packaging was damaged and the product arrived broken.,negative,PASS
+2,Excellent quality and very good value for money.,positive,PASS
+3,"The item is okay, nothing special about it.",neutral,PASS
+4,I am disappointed with this purchase and would not recommend it.,negative,PASS
+5,The product works perfectly and exceeded my expectations.,positive,PASS
+6,"Average product, but delivery was on time.",positive,PASS
+7,Poor quality material and the stitching came apart.,negative,PASS
+8,I love this product and would definitely buy it again.,positive,PASS
+9,The product is acceptable for the price paid.,negative,PASS
+10,Completely satisfied with the quality and performance.,positive,PASS
