@@ -4,7 +4,60 @@ import pandas as pd
 import streamlit as st
 import plotly.express as px
 from datetime import datetime
+from pathlib import Path
 
+
+DATASET_PATH = Path(__file__).parent / "aiml_product_reviews_corrected.csv"
+
+@st.cache_data(show_spinner=False)
+def load_review_dataset(csv_path, modified_time):
+    df = pd.read_csv(csv_path)
+
+    required_columns = {"category", "review_text"}
+    missing = required_columns - set(df.columns)
+
+    if missing:
+        raise ValueError(
+            f"Dataset is missing columns: {sorted(missing)}"
+        )
+
+    df = df.dropna(subset=["category", "review_text"]).copy()
+    df["category"] = df["category"].astype(str).str.strip()
+    df["review_text"] = df["review_text"].astype(str).str.strip()
+    df = df[
+        (df["category"] != "") & (df["review_text"] != "")
+    ].copy()
+
+    return df
+
+
+@st.cache_data(show_spinner=False)
+def predict_dataset_sentiments(csv_path, modified_time, api_url):
+    df = load_review_dataset(csv_path, modified_time)
+
+    predictions = []
+
+    for review in df["review_text"]:
+        response = requests.post(
+            f"{api_url.rstrip('/')}/predict",
+            json={"review": review},
+            timeout=30,
+        )
+        response.raise_for_status()
+
+        result = response.json()
+        sentiment = result.get("predicted_sentiment")
+
+        if sentiment not in {"positive", "negative", "neutral"}:
+            raise ValueError(
+                f"Unexpected sentiment returned by API: {sentiment}"
+            )
+
+        predictions.append(sentiment)
+
+    df["predicted_sentiment"] = predictions
+    return df
+    
 # ---------------- CONFIGURATION ----------------
 API_URL = "http://127.0.0.1:8001"
 PREDICT_URL = f"{API_URL}/predict"
@@ -289,6 +342,103 @@ st.markdown(
 )
 
 # ---------------- OVERVIEW ----------------
+st.subheader("Full Dataset Sentiment Analysis")
+
+if not DATASET_PATH.exists():
+    st.error(f"Dataset not found: {DATASET_PATH.name}")
+else:
+    try:
+        modified_time = DATASET_PATH.stat().st_mtime
+
+        with st.spinner(
+            "Analysing dataset reviews through the sentiment API..."
+        ):
+            dataset_df = predict_dataset_sentiments(
+                str(DATASET_PATH),
+                modified_time,
+                API_URL,
+            )
+
+        st.caption(
+            f"Showing model predictions for {len(dataset_df):,} "
+            "valid reviews in the provided dataset."
+        )
+
+        # Overall sentiment distribution
+        sentiment_counts = (
+            dataset_df["predicted_sentiment"]
+            .value_counts()
+            .reindex(
+                ["positive", "neutral", "negative"],
+                fill_value=0,
+            )
+            .rename_axis("Sentiment")
+            .reset_index(name="Review Count")
+        )
+
+        fig = px.pie(
+            sentiment_counts,
+            names="Sentiment",
+            values="Review Count",
+            title="Overall Sentiment Distribution",
+            hole=0.55,
+        )
+        st.plotly_chart(fig, use_container_width=True)
+
+        # Sentiment breakdown by category
+        category_counts = (
+            dataset_df.groupby(
+                ["category", "predicted_sentiment"]
+            )
+            .size()
+            .reset_index(name="Review Count")
+        )
+
+        fig = px.bar(
+            category_counts,
+            x="category",
+            y="Review Count",
+            color="predicted_sentiment",
+            barmode="group",
+            category_orders={
+                "predicted_sentiment": [
+                    "positive", "neutral", "negative"
+                ]
+            },
+            title="Sentiment Breakdown by Product Category",
+            labels={
+                "category": "Product Category",
+                "predicted_sentiment": "Predicted Sentiment",
+            },
+        )
+        st.plotly_chart(fig, use_container_width=True)
+
+        # Category summary table
+        category_summary = pd.crosstab(
+            dataset_df["category"],
+            dataset_df["predicted_sentiment"],
+        ).reindex(
+            columns=["positive", "neutral", "negative"],
+            fill_value=0,
+        )
+
+        category_summary["Total Reviews"] = category_summary.sum(axis=1)
+
+        st.subheader("Category-wise Summary")
+        st.dataframe(category_summary, use_container_width=True)
+
+    except requests.RequestException as exc:
+        st.error(
+            "Could not get sentiment predictions. "
+            "Make sure the FastAPI server is running."
+        )
+        st.caption(str(exc))
+
+    except (ValueError, KeyError, pd.errors.ParserError) as exc:
+        st.error(f"Dataset analysis failed: {exc}")
+
+
+
 if page == "Overview":
     st.markdown("### Sentiment Overview")
     st.caption(
