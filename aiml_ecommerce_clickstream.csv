@@ -1,0 +1,1001 @@
+session_id,user_id,date,city,device,category,product_views,add_to_cart,purchase_made,order_value_inr,session_duration_mins,return_visitor,discount_applied,search_query,recommendation_clicked,label_purchased
+SES-00001,USR-07547,2023-11-20,Kolkata,Desktop,Beauty,13,3,0,5740.64,31.7,0,1,,0,0
+SES-00002,USR-05854,2023-10-12,Ahmedabad,Desktop,Toys,26,5,1,490.47,30.8,0,0,top rated,0,0
+SES-00003,USR-06237,2024-06-04,Mumbai,Tablet,Toys,4,2,0,3197.61,39.7,1,0,best toys,0,1
+SES-00004,USR-06059,2024-05-21,Kolkata,Mobile,Sports,28,4,1,6963.7,28.2,1,1,top rated,0,1
+SES-00005,USR-04377,2024-08-20,Bengaluru,Tablet,Grocery,23,1,0,8146.74,7.9,0,0,,0,1
+SES-00006,USR-04920,2024-12-08,Hyderabad,Desktop,Auto,25,1,0,2589.71,3.1,1,0,,0,0
+SES-00007,USR-00976,2024-03-01,Pune,Desktop,Auto,23,1,0,7099.06,5.5,0,0,cheap auto,0,0
+SES-00008,USR-00967,2024-03-14,Delhi,Desktop,Sports,27,0,0,646.69,9.9,0,0,,0,0
+SES-00009,USR-04362,2024-01-04,Chennai,Tablet,Electronics,30,1,0,2568.4,8.8,0,0,discount,0,0
+SES-00010,USR-05330,2024-08-04,Pune,Mobile,Furniture,14,0,0,4880.92,27.1,0,1,,1,1
+SES-00011,USR-03966,2024-12-03,Mumbai,Mobile,Furniture,11,2,0,8846.89,38.2,0,1,,1,0
+SES-00012,USR-05028,2024-06-06,Mumbai,Mobile,Sports,19,3,1,3227.01,12.5,0,0,best sports,0,0
+SES-00013,USR-04255,2024-10-11,Bengaluru,Desktop,Sports,21,3,0,0,34.1,0,0,top rated,1,1
+SES-00014,USR-07346,2024-09-12,Bengaluru,Mobile,Furniture,15,1,1,2474.68,20.0,0,0,best furniture,0,1
+SES-00015,USR-03623,2023-05-20,Jaipur,Mobile,Toys,15,3,0,6245.46,9.4,0,1,top rated,0,1
+SES-00016,USR-05800,2023-08-06,Chennai,Tablet,Furniture,10,4,1,3583.37,21.7,0,0,cheap furniture,0,0
+SES-00017,USR-03470,2023-07-22,Ahmedabad,Desktop,Home & Kitchen,21,2,0,0,31.8,1,0,,0,0
+SES-00018,USR-07752,2024-12-05,Mumbai,Mobile,Electronics,7,5,1,0,37.2,0,1,,0,1
+SES-00019,USR-03961,2024-06-19,Kochi,Mobile,Grocery,15,3,1,8274.5,9.0,0,1,,0,0
+SES-00020,USR-00398,2023-08-01,Mumbai,Mobile,Furniture,8,4,1,0,11.2,0,0,best furniture,1,1
+SES-00021,USR-01733,2023-01-24,Bengaluru,Mobile,Sports,27,3,1,5258.79,23.5,0,0,cheap sports,0,0
+SES-00022,USR-05062,2024-08-21,Chennai,Mobile,Auto,29,4,1,0,9.8,1,0,discount,1,0
+SES-00023,USR-04852,2024-11-13,Mumbai,Mobile,Beauty,8,5,1,7121.95,12.2,1,0,buy online,0,1
+SES-00024,USR-00489,2024-02-27,Kochi,Mobile,Electronics,25,4,1,0,17.6,0,1,best electronics,0,1
+SES-00025,USR-01304,2023-05-05,Kochi,Mobile,Sports,7,4,1,0,15.9,0,1,best sports,0,1
+SES-00026,USR-07180,2024-09-21,Delhi,Desktop,Auto,4,0,1,0,39.9,0,0,,1,0
+SES-00027,USR-03439,2024-04-16,Chennai,Mobile,Clothing,9,3,1,6361.97,13.6,0,1,top rated,0,0
+SES-00028,USR-02674,2023-11-08,Ahmedabad,Mobile,Electronics,10,5,1,2038.29,32.1,1,0,discount,1,1
+SES-00029,USR-06025,2023-04-17,Bengaluru,Mobile,Sports,3,4,1,2225.94,11.7,1,1,cheap sports,1,1
+SES-00030,USR-07262,2024-06-09,Ahmedabad,Mobile,Auto,13,3,0,4026.22,17.2,0,0,buy online,0,1
+SES-00031,USR-05317,2023-12-24,Delhi,Desktop,Furniture,25,1,0,0,35.5,1,0,,0,1
+SES-00032,USR-00480,2023-05-20,Chennai,Mobile,Home & Kitchen,22,4,1,0,3.5,0,1,best home & kitchen,0,0
+SES-00033,USR-06236,2024-08-27,Chennai,Mobile,Auto,25,0,1,511.97,39.3,0,1,discount,0,1
+SES-00034,USR-07221,2024-11-30,Delhi,Mobile,Auto,7,5,1,0,6.5,0,1,discount,0,0
+SES-00035,USR-07369,2024-03-28,Chennai,Tablet,Home & Kitchen,28,0,1,0,2.0,0,1,discount,0,1
+SES-00036,USR-05403,2024-04-23,Hyderabad,Mobile,Books,8,5,1,3410.94,18.4,0,0,buy online,0,1
+SES-00037,USR-01090,2024-07-15,Pune,Desktop,Auto,6,4,0,4169.01,31.6,1,0,top rated,0,1
+SES-00038,USR-01652,2023-02-18,Kolkata,Mobile,Home & Kitchen,29,2,1,0,20.3,0,0,,0,1
+SES-00039,USR-05776,2023-12-21,Kolkata,Tablet,Furniture,30,4,0,2839.67,8.5,0,1,,0,1
+SES-00040,USR-03326,2023-12-10,Chennai,Mobile,Books,18,5,1,3255.89,9.3,0,1,,0,0
+SES-00041,USR-06089,2024-03-09,Kochi,Desktop,Books,20,4,1,0,20.4,0,1,,1,0
+SES-00042,USR-05746,2024-02-29,Chennai,Mobile,Clothing,16,3,0,6982.12,37.9,0,1,top rated,0,1
+SES-00043,USR-05931,2023-01-04,Chennai,Mobile,Home & Kitchen,22,2,1,1532.99,16.9,0,0,discount,1,1
+SES-00044,USR-05904,2024-03-16,Ahmedabad,Mobile,Furniture,16,3,1,5583.64,36.0,1,1,,0,1
+SES-00045,USR-00949,2023-07-12,Hyderabad,Desktop,Grocery,16,4,1,0,32.3,0,0,top rated,0,1
+SES-00046,USR-06164,2024-06-07,Delhi,Mobile,Toys,4,5,1,7149.37,18.3,1,0,best toys,0,1
+SES-00047,USR-03560,2023-05-06,Kolkata,Tablet,Clothing,21,2,0,0,3.6,0,0,top rated,0,0
+SES-00048,USR-06155,2024-03-08,Bengaluru,Mobile,Home & Kitchen,26,4,1,1890.53,7.0,0,0,best home & kitchen,0,1
+SES-00049,USR-01920,2023-06-11,Kochi,Mobile,Auto,3,3,0,0,30.0,0,1,discount,0,1
+SES-00050,USR-06143,2023-07-11,Kolkata,Mobile,Grocery,30,5,1,4951.0,14.2,0,1,top rated,1,0
+SES-00051,USR-05570,2024-06-21,Hyderabad,Tablet,Clothing,9,0,1,0,28.3,0,0,best clothing,0,1
+SES-00052,USR-00238,2024-07-24,Kochi,Mobile,Beauty,14,5,0,4763.95,5.4,1,0,buy online,0,1
+SES-00053,USR-02965,2024-10-10,Hyderabad,Mobile,Books,26,5,1,1693.26,14.5,0,1,top rated,0,1
+SES-00054,USR-05024,2023-12-26,Delhi,Tablet,Toys,29,2,1,5195.96,27.5,0,0,best toys,1,1
+SES-00055,USR-01216,2023-09-21,Chennai,Mobile,Beauty,22,0,1,7572.44,12.1,0,0,,1,1
+SES-00056,USR-03699,2023-05-22,Jaipur,Tablet,Books,10,5,0,5967.8,16.0,1,0,buy online,0,1
+SES-00057,USR-03418,2023-03-07,Ahmedabad,Desktop,Books,20,0,1,0,2.5,0,1,top rated,0,0
+SES-00058,USR-03162,2024-12-11,Hyderabad,Tablet,Clothing,25,4,1,0,29.8,1,1,top rated,0,0
+SES-00059,USR-05505,2024-06-23,Pune,Mobile,Beauty,16,2,0,7394.23,6.6,1,0,,1,1
+SES-00060,USR-03418,2023-09-05,Bengaluru,Tablet,Beauty,14,5,0,1480.49,40.8,1,0,discount,0,0
+SES-00061,USR-00343,2024-08-10,Kochi,Mobile,Books,3,5,1,5253.03,39.1,0,0,buy online,0,0
+SES-00062,USR-00126,2024-04-22,Kolkata,Mobile,Books,9,2,0,6200.88,17.1,0,0,cheap books,0,1
+SES-00063,USR-05289,2024-08-09,Ahmedabad,Mobile,Furniture,8,5,0,7444.51,19.0,0,0,,1,1
+SES-00064,USR-00576,2024-04-01,Hyderabad,Mobile,Electronics,7,3,0,1538.11,30.3,1,1,cheap electronics,1,0
+SES-00065,USR-04653,2023-07-24,Ahmedabad,Mobile,Books,9,3,0,5457.2,44.9,0,1,best books,1,1
+SES-00066,USR-00467,2023-06-10,Ahmedabad,Mobile,Electronics,1,3,0,0,13.7,1,0,,0,1
+SES-00067,USR-02657,2024-08-04,Delhi,Mobile,Toys,19,2,1,2194.44,22.3,1,0,,1,1
+SES-00068,USR-02233,2024-08-19,Mumbai,Mobile,Electronics,1,1,1,1806.17,13.4,0,0,cheap electronics,0,1
+SES-00069,USR-03323,2023-06-17,Kolkata,Desktop,Electronics,30,4,1,0,22.5,0,0,discount,0,1
+SES-00070,USR-02510,2023-02-26,Mumbai,Mobile,Toys,27,5,1,2192.16,36.9,1,0,,0,0
+SES-00071,USR-01487,2023-09-28,Hyderabad,Mobile,Grocery,16,4,1,0,12.1,0,0,best grocery,0,0
+SES-00072,USR-02202,2023-06-09,Bengaluru,Mobile,Electronics,10,0,0,8903.27,42.2,0,0,best electronics,0,0
+SES-00073,USR-01310,2024-08-12,Chennai,Mobile,Home & Kitchen,6,0,0,766.62,39.6,1,0,buy online,0,1
+SES-00074,USR-04472,2023-12-04,Kolkata,Tablet,Beauty,30,1,0,6009.15,13.9,0,1,discount,0,0
+SES-00075,USR-06629,2023-09-15,Chennai,Mobile,Grocery,9,4,1,7403.52,39.9,0,0,top rated,0,1
+SES-00076,USR-05246,2023-07-31,Delhi,Mobile,Auto,7,3,1,1441.74,13.5,0,1,top rated,1,1
+SES-00077,USR-01104,2023-10-10,Hyderabad,Mobile,Beauty,10,5,0,2636.02,28.2,1,0,best beauty,1,0
+SES-00078,USR-04645,2024-07-04,Kolkata,Tablet,Clothing,24,2,1,2126.56,31.4,1,0,best clothing,1,1
+SES-00079,USR-06801,2024-04-09,Kolkata,Mobile,Clothing,22,1,1,8556.81,25.0,0,0,discount,0,1
+SES-00080,USR-05532,2024-08-08,Chennai,Mobile,Home & Kitchen,24,2,1,7094.38,35.9,0,0,,0,1
+SES-00081,USR-01837,2024-07-06,Pune,Desktop,Home & Kitchen,24,4,1,8900.26,32.8,0,0,buy online,0,1
+SES-00082,USR-05638,2023-09-27,Chennai,Mobile,Furniture,22,0,1,8941.81,13.0,1,1,,1,1
+SES-00083,USR-02935,2023-05-08,Kolkata,Mobile,Auto,12,2,1,3694.66,3.2,0,0,,1,0
+SES-00084,USR-04490,2023-12-09,Chennai,Mobile,Books,30,4,1,0,10.4,0,0,cheap books,1,0
+SES-00085,USR-06585,2023-11-02,Chennai,Mobile,Sports,23,2,0,0,19.8,0,0,discount,1,1
+SES-00086,USR-06859,2024-09-06,Pune,Mobile,Clothing,17,4,0,0,44.5,0,1,buy online,1,0
+SES-00087,USR-06365,2023-12-15,Hyderabad,Desktop,Books,27,5,0,0,20.8,0,0,top rated,0,0
+SES-00088,USR-05470,2023-12-29,Ahmedabad,Tablet,Furniture,14,3,1,0,43.8,0,0,cheap furniture,1,0
+SES-00089,USR-05071,2024-06-12,Chennai,Mobile,Books,9,0,0,7154.24,10.7,0,1,discount,0,0
+SES-00090,USR-06928,2023-12-16,Delhi,Tablet,Electronics,15,4,0,2488.58,7.1,1,0,,1,1
+SES-00091,USR-07031,2023-09-23,Bengaluru,Desktop,Home & Kitchen,1,1,0,6589.84,35.6,0,0,buy online,0,1
+SES-00092,USR-02502,2024-09-15,Kochi,Mobile,Clothing,14,1,1,0,37.1,0,1,discount,0,1
+SES-00093,USR-01673,2024-10-17,Hyderabad,Mobile,Sports,11,4,1,8677.44,30.0,0,0,,0,1
+SES-00094,USR-06240,2023-10-20,Kochi,Mobile,Furniture,22,1,0,0,27.4,0,0,discount,0,1
+SES-00095,USR-03482,2024-04-14,Bengaluru,Tablet,Home & Kitchen,13,1,0,0,12.4,0,0,buy online,0,0
+SES-00096,USR-06127,2023-07-11,Pune,Mobile,Beauty,12,5,1,0,35.4,0,1,discount,0,1
+SES-00097,USR-04529,2024-03-14,Pune,Mobile,Home & Kitchen,19,1,0,5697.17,39.0,0,1,,1,1
+SES-00098,USR-06031,2024-02-24,Chennai,Mobile,Books,18,2,0,7976.17,38.8,0,0,buy online,0,0
+SES-00099,USR-03385,2024-12-21,Kolkata,Desktop,Home & Kitchen,19,2,0,0,1.3,0,0,,0,1
+SES-00100,USR-04832,2024-07-13,Hyderabad,Mobile,Sports,8,0,0,0,11.4,1,0,,0,1
+SES-00101,USR-04683,2024-07-01,Kochi,Mobile,Auto,27,2,0,3997.1,19.8,0,0,,0,0
+SES-00102,USR-01460,2024-12-20,Hyderabad,Mobile,Auto,27,0,0,4200.88,18.9,0,0,,1,1
+SES-00103,USR-06749,2024-04-11,Bengaluru,Mobile,Sports,28,1,1,5557.77,4.0,0,0,cheap sports,0,0
+SES-00104,USR-01257,2024-06-29,Bengaluru,Tablet,Clothing,11,5,1,0,22.1,1,0,buy online,1,0
+SES-00105,USR-04966,2024-10-16,Mumbai,Mobile,Clothing,10,4,1,5464.62,4.6,0,1,,0,0
+SES-00106,USR-00291,2024-06-14,Pune,Mobile,Electronics,28,0,0,4550.58,13.2,0,0,cheap electronics,0,1
+SES-00107,USR-00864,2024-11-24,Chennai,Mobile,Auto,7,0,1,4115.38,2.4,0,1,best auto,0,0
+SES-00108,USR-06296,2024-01-03,Jaipur,Mobile,Sports,27,1,1,555.34,9.3,0,0,discount,0,1
+SES-00109,USR-05427,2024-01-16,Pune,Mobile,Grocery,20,2,0,4448.89,15.5,0,0,buy online,1,0
+SES-00110,USR-05907,2023-12-07,Kolkata,Tablet,Toys,12,4,1,5299.47,6.6,0,1,discount,0,1
+SES-00111,USR-01030,2024-09-23,Delhi,Desktop,Grocery,3,3,1,5878.22,34.8,0,0,,0,1
+SES-00112,USR-07015,2024-05-05,Hyderabad,Mobile,Books,30,0,1,0,8.3,0,1,best books,0,1
+SES-00113,USR-06862,2024-02-15,Delhi,Mobile,Clothing,11,0,0,0,10.0,1,0,best clothing,1,0
+SES-00114,USR-04649,2023-09-19,Bengaluru,Desktop,Furniture,19,0,0,1981.27,4.2,0,0,,0,1
+SES-00115,USR-01830,2023-09-04,Pune,Tablet,Home & Kitchen,30,1,0,0,17.2,0,0,,0,1
+SES-00116,USR-07478,2023-10-25,Mumbai,Mobile,Sports,25,4,0,1055.21,21.6,0,0,cheap sports,1,1
+SES-00117,USR-05191,2024-10-25,Kolkata,Mobile,Beauty,8,4,0,3613.25,30.1,0,0,top rated,0,1
+SES-00118,USR-03844,2024-10-18,Jaipur,Mobile,Sports,11,2,0,2041.6,34.3,1,0,,0,0
+SES-00119,USR-06568,2024-02-05,Ahmedabad,Tablet,Auto,13,5,0,5608.46,5.8,1,1,discount,0,1
+SES-00120,USR-03614,2023-09-13,Pune,Desktop,Sports,13,5,0,0,35.1,0,0,,0,0
+SES-00121,USR-04749,2024-10-16,Kochi,Tablet,Clothing,8,2,1,6528.7,44.0,0,0,top rated,1,1
+SES-00122,USR-04849,2024-05-20,Bengaluru,Desktop,Grocery,9,3,1,2812.77,14.8,1,0,top rated,0,1
+SES-00123,USR-02528,2023-05-28,Bengaluru,Mobile,Clothing,15,2,1,8130.35,38.7,0,1,discount,0,0
+SES-00124,USR-01807,2023-06-09,Hyderabad,Mobile,Books,26,2,0,4550.91,5.8,0,0,cheap books,0,1
+SES-00125,USR-01835,2024-04-24,Kochi,Mobile,Books,7,0,0,6510.6,32.9,0,1,best books,1,1
+SES-00126,USR-03171,2023-09-20,Mumbai,Mobile,Books,2,2,1,0,22.4,0,0,buy online,1,1
+SES-00127,USR-05744,2023-09-21,Pune,Mobile,Auto,25,0,1,0,8.3,0,0,,0,1
+SES-00128,USR-05775,2024-03-04,Kolkata,Mobile,Grocery,3,5,0,0,6.7,0,0,top rated,0,1
+SES-00129,USR-02915,2024-01-10,Jaipur,Tablet,Grocery,10,1,1,0,25.2,0,1,,1,0
+SES-00130,USR-06064,2024-05-02,Jaipur,Mobile,Clothing,27,4,0,3974.85,13.7,0,0,top rated,0,1
+SES-00131,USR-06978,2023-10-08,Delhi,Tablet,Sports,16,0,1,0,16.3,0,0,discount,1,1
+SES-00132,USR-07691,2024-08-11,Pune,Tablet,Home & Kitchen,18,5,1,3083.23,29.1,0,0,cheap home & kitchen,1,0
+SES-00133,USR-03076,2024-08-29,Chennai,Tablet,Books,23,3,0,0,24.3,0,1,buy online,1,1
+SES-00134,USR-03905,2023-04-24,Mumbai,Tablet,Books,22,3,0,1340.21,9.2,0,0,best books,0,1
+SES-00135,USR-02910,2024-05-20,Jaipur,Mobile,Auto,3,1,1,6287.02,7.5,0,0,,0,0
+SES-00136,USR-05793,2023-06-26,Jaipur,Mobile,Books,21,5,0,4538.42,17.3,0,0,,0,0
+SES-00137,USR-07660,2023-12-06,Kochi,Mobile,Beauty,12,0,1,6527.17,29.6,1,0,,0,1
+SES-00138,USR-06564,2024-09-16,Mumbai,Mobile,Clothing,27,4,0,3929.68,39.1,0,1,buy online,0,0
+SES-00139,USR-05964,2023-11-07,Ahmedabad,Tablet,Grocery,15,0,1,683.89,12.9,0,0,best grocery,1,0
+SES-00140,USR-03529,2024-02-26,Kolkata,Mobile,Electronics,25,4,1,0,4.4,0,1,top rated,1,0
+SES-00141,USR-02307,2024-05-22,Delhi,Mobile,Beauty,6,0,1,4729.74,33.2,0,0,cheap beauty,0,1
+SES-00142,USR-07538,2023-01-22,Mumbai,Desktop,Furniture,13,2,1,0,25.3,0,0,,0,0
+SES-00143,USR-01882,2024-09-28,Kolkata,Mobile,Books,16,3,0,0,28.8,0,0,top rated,0,1
+SES-00144,USR-01507,2023-06-27,Delhi,Mobile,Beauty,4,1,1,0,23.0,0,0,discount,0,0
+SES-00145,USR-03008,2024-08-02,Kochi,Desktop,Beauty,15,5,1,2588.65,36.1,0,0,buy online,0,0
+SES-00146,USR-03696,2023-06-19,Mumbai,Mobile,Home & Kitchen,14,0,1,0,24.0,0,1,cheap home & kitchen,0,1
+SES-00147,USR-02865,2024-01-08,Kochi,Desktop,Furniture,23,5,0,1035.8,8.5,0,0,buy online,0,1
+SES-00148,USR-07337,2024-05-21,Bengaluru,Mobile,Clothing,10,4,1,0,16.8,0,1,,0,1
+SES-00149,USR-03311,2023-08-22,Kochi,Mobile,Books,16,4,1,4702.84,5.3,1,0,discount,0,0
+SES-00150,USR-07539,2024-12-20,Pune,Mobile,Sports,1,3,1,5242.89,5.1,0,1,top rated,0,1
+SES-00151,USR-04575,2023-01-07,Delhi,Mobile,Books,2,4,0,0,43.5,0,0,top rated,0,1
+SES-00152,USR-03663,2024-05-12,Delhi,Desktop,Furniture,4,5,1,201.01,24.3,0,0,top rated,1,1
+SES-00153,USR-03829,2024-12-17,Ahmedabad,Tablet,Books,29,2,1,568.35,22.1,1,1,discount,0,0
+SES-00154,USR-00272,2024-10-26,Delhi,Mobile,Home & Kitchen,4,3,1,7970.6,22.3,1,0,best home & kitchen,0,0
+SES-00155,USR-06863,2024-04-20,Bengaluru,Mobile,Home & Kitchen,3,2,0,0,29.0,0,0,discount,1,1
+SES-00156,USR-00565,2023-11-21,Chennai,Mobile,Clothing,2,2,0,0,44.2,0,1,buy online,1,1
+SES-00157,USR-06944,2023-09-03,Delhi,Mobile,Auto,23,0,1,3845.4,33.9,0,0,cheap auto,0,0
+SES-00158,USR-05527,2023-09-18,Mumbai,Mobile,Sports,27,4,1,6727.63,29.3,1,0,top rated,0,1
+SES-00159,USR-00185,2024-09-06,Jaipur,Mobile,Books,28,1,1,4136.64,43.6,0,0,,1,0
+SES-00160,USR-03440,2023-10-05,Jaipur,Desktop,Books,17,4,1,3040.94,15.7,1,0,,1,0
+SES-00161,USR-06760,2024-04-26,Kochi,Mobile,Grocery,29,2,1,0,30.1,0,0,cheap grocery,0,0
+SES-00162,USR-03500,2024-09-17,Jaipur,Tablet,Clothing,8,3,1,3192.41,6.6,0,1,best clothing,1,1
+SES-00163,USR-02147,2024-04-10,Kochi,Mobile,Auto,24,0,1,0,27.8,0,0,top rated,1,0
+SES-00164,USR-06499,2023-05-05,Pune,Desktop,Toys,27,5,1,1621.34,29.4,0,0,top rated,0,1
+SES-00165,USR-03881,2023-04-23,Mumbai,Mobile,Auto,5,4,1,7130.72,27.1,0,1,top rated,0,0
+SES-00166,USR-04684,2024-11-01,Pune,Tablet,Auto,11,1,1,0,1.9,0,0,top rated,0,0
+SES-00167,USR-03891,2023-04-03,Bengaluru,Tablet,Sports,4,4,1,0,42.8,0,1,best sports,0,0
+SES-00168,USR-02587,2023-12-31,Chennai,Mobile,Grocery,15,5,0,0,34.4,0,0,best grocery,0,1
+SES-00169,USR-02399,2024-01-16,Delhi,Mobile,Clothing,9,0,1,0,36.2,0,1,,0,0
+SES-00170,USR-01420,2024-12-13,Kolkata,Mobile,Toys,27,3,1,0,24.9,0,1,cheap toys,0,0
+SES-00171,USR-02269,2023-01-25,Hyderabad,Mobile,Books,24,4,0,8841.4,15.4,0,1,,0,0
+SES-00172,USR-05705,2023-05-31,Chennai,Mobile,Toys,15,0,0,0,19.5,0,1,buy online,0,0
+SES-00173,USR-06397,2024-10-04,Bengaluru,Tablet,Books,9,3,1,0,18.3,0,0,,0,0
+SES-00174,USR-06614,2023-09-15,Chennai,Mobile,Clothing,27,2,0,3982.26,36.4,0,1,cheap clothing,0,1
+SES-00175,USR-04434,2023-04-06,Ahmedabad,Mobile,Beauty,10,4,1,1720.98,1.8,0,1,,0,1
+SES-00176,USR-03376,2024-10-06,Jaipur,Mobile,Toys,18,2,0,0,34.2,0,0,discount,0,0
+SES-00177,USR-03330,2023-08-29,Ahmedabad,Mobile,Books,22,5,0,7577.83,37.6,0,1,cheap books,0,1
+SES-00178,USR-06116,2024-11-17,Kolkata,Mobile,Electronics,4,3,0,237.21,12.1,1,0,top rated,0,0
+SES-00179,USR-02661,2023-10-30,Delhi,Tablet,Auto,28,5,1,7306.53,27.8,0,0,cheap auto,0,1
+SES-00180,USR-05968,2023-05-12,Hyderabad,Mobile,Clothing,25,2,0,4665.54,35.7,1,0,top rated,1,0
+SES-00181,USR-00139,2023-09-26,Delhi,Mobile,Grocery,1,5,0,0,24.8,1,0,top rated,0,1
+SES-00182,USR-05082,2023-07-27,Mumbai,Mobile,Books,15,5,1,0,28.0,0,1,discount,0,0
+SES-00183,USR-01396,2023-04-19,Kolkata,Mobile,Clothing,8,2,0,517.93,40.1,1,0,buy online,1,0
+SES-00184,USR-05556,2023-07-22,Chennai,Mobile,Grocery,30,2,1,1033.79,42.5,0,0,buy online,0,1
+SES-00185,USR-00661,2024-11-08,Kolkata,Mobile,Clothing,5,2,1,1101.25,25.1,0,1,discount,0,0
+SES-00186,USR-04000,2023-11-29,Ahmedabad,Tablet,Books,23,2,0,7384.91,42.9,0,1,,0,0
+SES-00187,USR-03524,2024-06-24,Hyderabad,Mobile,Home & Kitchen,4,5,0,2364.91,8.8,1,0,cheap home & kitchen,1,0
+SES-00188,USR-03223,2023-10-05,Hyderabad,Mobile,Beauty,28,5,0,4292.49,9.8,0,1,,0,1
+SES-00189,USR-01649,2023-03-17,Mumbai,Desktop,Toys,13,5,1,0,39.2,1,1,,1,0
+SES-00190,USR-05074,2024-01-09,Ahmedabad,Desktop,Furniture,9,5,1,0,34.7,0,1,cheap furniture,1,0
+SES-00191,USR-07832,2024-10-20,Chennai,Mobile,Furniture,23,1,1,4578.57,40.9,0,1,discount,0,1
+SES-00192,USR-05324,2023-04-03,Bengaluru,Desktop,Books,11,1,1,7664.47,13.1,1,0,cheap books,1,1
+SES-00193,USR-03465,2024-03-29,Mumbai,Mobile,Sports,27,0,0,5876.45,38.7,0,1,discount,0,1
+SES-00194,USR-04434,2023-11-01,Ahmedabad,Mobile,Sports,2,0,1,0,7.6,1,0,best sports,1,0
+SES-00195,USR-00182,2024-06-29,Kochi,Tablet,Auto,23,1,0,2989.29,28.2,0,0,buy online,0,0
+SES-00196,USR-05276,2024-05-26,Ahmedabad,Mobile,Toys,16,3,0,0,43.0,1,0,,1,0
+SES-00197,USR-00577,2024-08-25,Mumbai,Mobile,Auto,2,1,1,884.69,4.1,1,0,discount,1,1
+SES-00198,USR-05283,2024-09-02,Kolkata,Mobile,Electronics,15,0,0,3842.85,2.2,0,1,cheap electronics,0,1
+SES-00199,USR-04259,2023-09-27,Chennai,Mobile,Clothing,18,5,1,4376.05,11.0,0,0,cheap clothing,0,0
+SES-00200,USR-07010,2024-03-14,Mumbai,Mobile,Beauty,21,4,1,0,8.5,1,1,cheap beauty,1,0
+SES-00201,USR-00292,2023-11-17,Delhi,Mobile,Auto,18,0,1,0,25.7,0,0,best auto,0,0
+SES-00202,USR-00976,2024-06-16,Hyderabad,Desktop,Beauty,29,2,0,5864.78,10.7,1,1,top rated,0,1
+SES-00203,USR-03260,2024-02-28,Chennai,Mobile,Auto,13,3,0,7214.5,17.9,1,1,buy online,1,1
+SES-00204,USR-02787,2024-06-20,Kochi,Mobile,Furniture,7,5,1,0,21.6,1,1,,0,1
+SES-00205,USR-01782,2024-11-09,Kolkata,Mobile,Beauty,9,0,1,7782.79,14.6,1,0,,0,0
+SES-00206,USR-00121,2024-07-23,Hyderabad,Mobile,Clothing,24,2,1,0,6.9,1,1,buy online,0,0
+SES-00207,USR-04742,2024-01-08,Ahmedabad,Mobile,Clothing,23,5,1,0,13.7,0,0,,1,1
+SES-00208,USR-07337,2023-12-11,Bengaluru,Mobile,Books,18,1,0,432.88,19.3,0,0,,0,0
+SES-00209,USR-01353,2023-01-24,Jaipur,Mobile,Home & Kitchen,8,4,0,0,27.5,0,1,buy online,0,1
+SES-00210,USR-01468,2023-05-11,Ahmedabad,Mobile,Auto,22,0,1,1830.7,19.8,0,0,top rated,0,1
+SES-00211,USR-03554,2023-01-04,Delhi,Mobile,Auto,30,3,0,5361.75,3.6,0,1,best auto,1,0
+SES-00212,USR-03752,2024-09-24,Delhi,Tablet,Home & Kitchen,8,1,0,2803.77,11.4,0,1,cheap home & kitchen,1,0
+SES-00213,USR-05453,2023-06-28,Delhi,Mobile,Sports,14,4,0,826.83,7.3,0,0,discount,0,1
+SES-00214,USR-01966,2023-08-31,Hyderabad,Tablet,Grocery,28,1,1,8458.37,43.4,0,1,top rated,0,1
+SES-00215,USR-01186,2024-06-22,Hyderabad,Mobile,Grocery,19,5,0,0,22.4,0,0,cheap grocery,0,1
+SES-00216,USR-03823,2023-01-14,Hyderabad,Mobile,Furniture,29,3,1,0,11.2,0,1,discount,0,1
+SES-00217,USR-04807,2024-10-02,Bengaluru,Mobile,Home & Kitchen,11,1,0,0,10.9,0,0,discount,0,1
+SES-00218,USR-07091,2023-11-24,Mumbai,Mobile,Electronics,19,3,1,2271.4,1.8,0,0,top rated,0,1
+SES-00219,USR-07101,2023-08-20,Ahmedabad,Mobile,Auto,29,4,1,0,13.2,0,1,,1,0
+SES-00220,USR-07295,2023-06-20,Kochi,Mobile,Grocery,14,5,1,2227.02,44.3,0,0,best grocery,0,1
+SES-00221,USR-03744,2024-10-25,Kochi,Mobile,Beauty,21,3,0,6053.53,35.1,0,0,,0,1
+SES-00222,USR-03233,2023-05-19,Mumbai,Desktop,Auto,20,5,1,6074.05,25.8,0,1,discount,1,1
+SES-00223,USR-06939,2024-04-24,Delhi,Mobile,Clothing,19,0,0,1816.49,42.9,0,0,cheap clothing,1,1
+SES-00224,USR-02409,2024-08-20,Kochi,Tablet,Home & Kitchen,15,1,1,0,28.5,0,0,,0,0
+SES-00225,USR-02764,2023-11-16,Kolkata,Mobile,Auto,27,3,0,4530.13,10.0,0,1,,0,1
+SES-00226,USR-03245,2024-11-10,Chennai,Mobile,Clothing,17,2,0,0,37.9,0,0,best clothing,1,1
+SES-00227,USR-06808,2023-09-25,Hyderabad,Mobile,Books,17,5,1,4895.25,35.8,1,0,best books,0,1
+SES-00228,USR-03300,2024-06-08,Kolkata,Desktop,Grocery,20,2,1,0,33.7,0,0,buy online,1,0
+SES-00229,USR-00499,2023-06-05,Pune,Mobile,Sports,10,1,0,4396.45,18.6,0,1,buy online,0,0
+SES-00230,USR-01941,2023-06-14,Mumbai,Mobile,Clothing,2,3,1,0,42.0,0,1,,0,1
+SES-00231,USR-05888,2024-09-28,Ahmedabad,Desktop,Clothing,4,0,0,0,9.3,0,0,top rated,0,0
+SES-00232,USR-07554,2023-04-01,Bengaluru,Mobile,Beauty,3,1,0,0,36.8,0,0,best beauty,1,0
+SES-00233,USR-02590,2024-03-28,Bengaluru,Tablet,Books,13,3,1,7385.77,34.9,0,0,best books,0,0
+SES-00234,USR-00376,2023-10-05,Hyderabad,Mobile,Electronics,24,3,1,3079.71,29.5,0,1,cheap electronics,0,0
+SES-00235,USR-02767,2024-06-04,Kochi,Mobile,Home & Kitchen,6,5,1,4814.8,21.2,0,0,,0,0
+SES-00236,USR-06254,2024-04-18,Hyderabad,Mobile,Furniture,6,2,0,890.62,8.5,0,0,top rated,0,0
+SES-00237,USR-01874,2023-12-12,Bengaluru,Mobile,Furniture,24,5,1,8807.47,13.9,1,0,top rated,0,0
+SES-00238,USR-00965,2023-01-06,Mumbai,Tablet,Sports,13,5,1,3604.57,4.0,0,0,discount,0,0
+SES-00239,USR-01280,2023-07-16,Pune,Mobile,Grocery,10,3,0,3256.57,36.8,0,0,,0,0
+SES-00240,USR-06858,2023-03-09,Chennai,Mobile,Auto,10,4,0,1169.32,10.1,1,0,buy online,1,0
+SES-00241,USR-05742,2023-06-11,Kolkata,Mobile,Electronics,1,3,0,8514.25,22.9,0,1,,0,0
+SES-00242,USR-04921,2023-07-07,Ahmedabad,Desktop,Clothing,30,4,0,0,35.7,1,0,buy online,0,0
+SES-00243,USR-03540,2023-10-25,Kolkata,Tablet,Home & Kitchen,8,4,1,8186.39,7.1,1,0,top rated,0,1
+SES-00244,USR-07980,2024-05-24,Chennai,Mobile,Electronics,23,4,1,0,30.3,0,1,best electronics,0,1
+SES-00245,USR-05230,2023-01-12,Ahmedabad,Mobile,Auto,4,5,0,0,19.2,0,0,,1,0
+SES-00246,USR-00679,2024-06-22,Kochi,Mobile,Auto,25,4,1,0,17.6,0,1,buy online,0,1
+SES-00247,USR-07834,2023-11-28,Kolkata,Desktop,Furniture,21,4,1,8557.79,13.1,1,1,buy online,1,1
+SES-00248,USR-06370,2024-11-27,Jaipur,Mobile,Clothing,22,3,0,4393.05,16.4,0,0,discount,0,1
+SES-00249,USR-07341,2023-08-03,Delhi,Mobile,Clothing,26,2,0,0,8.3,0,0,top rated,0,0
+SES-00250,USR-02142,2023-03-15,Ahmedabad,Mobile,Beauty,13,3,1,6860.93,2.6,1,0,top rated,1,0
+SES-00251,USR-02262,2024-06-01,Hyderabad,Mobile,Auto,27,1,1,8960.02,14.7,0,1,cheap auto,1,1
+SES-00252,USR-04938,2023-11-15,Pune,Tablet,Clothing,19,0,1,0,35.7,0,0,top rated,0,1
+SES-00253,USR-04767,2024-09-16,Chennai,Mobile,Books,12,2,1,7758.86,36.9,1,0,,1,1
+SES-00254,USR-06112,2023-05-01,Mumbai,Tablet,Sports,25,4,0,0,32.5,1,0,cheap sports,0,0
+SES-00255,USR-02918,2023-02-05,Mumbai,Mobile,Sports,12,1,0,3259.7,29.6,0,1,discount,1,0
+SES-00256,USR-07534,2023-06-17,Bengaluru,Desktop,Clothing,16,1,0,7865.15,34.9,0,0,,0,1
+SES-00257,USR-07605,2023-12-24,Hyderabad,Mobile,Electronics,20,5,1,0,4.4,1,1,cheap electronics,0,0
+SES-00258,USR-00911,2023-08-20,Kochi,Desktop,Clothing,26,2,1,7299.54,33.1,1,0,,0,1
+SES-00259,USR-03166,2023-08-05,Kochi,Mobile,Electronics,5,2,0,0,33.7,0,1,,1,0
+SES-00260,USR-06747,2023-08-28,Jaipur,Mobile,Auto,29,4,0,7906.86,44.9,1,0,best auto,0,0
+SES-00261,USR-03816,2024-04-21,Kolkata,Tablet,Furniture,19,5,1,5211.77,28.4,0,1,,0,0
+SES-00262,USR-05928,2023-12-03,Pune,Tablet,Auto,17,1,1,7683.55,35.9,0,0,top rated,0,1
+SES-00263,USR-07144,2024-01-01,Kochi,Mobile,Auto,29,0,0,0,41.6,0,0,,0,1
+SES-00264,USR-02971,2023-07-02,Chennai,Tablet,Books,15,5,1,0,32.6,0,0,best books,1,1
+SES-00265,USR-07331,2024-04-13,Delhi,Tablet,Auto,14,0,1,4747.61,39.9,1,1,buy online,0,1
+SES-00266,USR-00287,2024-06-29,Delhi,Desktop,Clothing,22,2,0,0,9.4,0,0,buy online,0,1
+SES-00267,USR-00191,2024-02-14,Ahmedabad,Mobile,Clothing,28,3,1,0,34.8,1,0,buy online,0,0
+SES-00268,USR-07374,2023-03-22,Pune,Tablet,Clothing,6,0,1,5775.0,35.2,0,0,top rated,0,1
+SES-00269,USR-03757,2024-03-24,Hyderabad,Mobile,Grocery,12,4,0,4219.05,16.8,0,0,,1,1
+SES-00270,USR-00666,2024-01-26,Bengaluru,Mobile,Toys,2,2,1,0,8.5,0,1,cheap toys,0,1
+SES-00271,USR-06197,2024-08-08,Hyderabad,Tablet,Grocery,1,0,1,0,39.0,0,0,best grocery,0,1
+SES-00272,USR-05987,2023-12-25,Kolkata,Mobile,Books,23,5,1,5931.67,19.7,0,0,cheap books,0,0
+SES-00273,USR-07559,2023-08-20,Pune,Mobile,Toys,3,2,1,3944.5,14.7,1,0,,0,1
+SES-00274,USR-02304,2023-12-09,Mumbai,Mobile,Toys,18,1,1,3881.42,1.4,1,0,discount,1,1
+SES-00275,USR-04434,2024-11-06,Kolkata,Desktop,Grocery,17,0,1,0,28.6,0,1,,1,0
+SES-00276,USR-02392,2024-02-15,Hyderabad,Tablet,Furniture,20,3,1,4119.29,26.4,0,0,,0,0
+SES-00277,USR-02730,2023-09-11,Kochi,Tablet,Clothing,19,4,1,0,37.8,1,0,top rated,1,0
+SES-00278,USR-04649,2024-03-22,Pune,Tablet,Books,24,1,1,0,15.3,0,1,buy online,0,1
+SES-00279,USR-00068,2023-06-03,Delhi,Mobile,Home & Kitchen,16,1,1,0,14.8,1,0,,0,0
+SES-00280,USR-02790,2024-01-10,Ahmedabad,Tablet,Sports,13,1,0,0,9.9,0,0,,0,1
+SES-00281,USR-05396,2023-03-09,Chennai,Tablet,Furniture,6,5,0,1694.81,2.2,0,0,top rated,0,0
+SES-00282,USR-05963,2023-01-16,Pune,Mobile,Auto,23,2,1,0,11.7,1,1,,0,1
+SES-00283,USR-06837,2024-02-22,Mumbai,Tablet,Auto,30,0,0,0,5.3,0,0,,0,0
+SES-00284,USR-03197,2024-05-28,Pune,Mobile,Home & Kitchen,27,1,0,6056.18,21.9,0,0,buy online,1,0
+SES-00285,USR-00333,2024-09-08,Pune,Mobile,Home & Kitchen,7,3,1,0,12.7,0,1,cheap home & kitchen,0,1
+SES-00286,USR-03827,2023-03-29,Pune,Mobile,Books,6,5,1,0,39.4,0,1,discount,0,1
+SES-00287,USR-03340,2023-08-16,Kolkata,Mobile,Clothing,29,4,0,7923.09,20.1,0,0,,0,1
+SES-00288,USR-03731,2024-05-03,Kolkata,Tablet,Sports,6,4,1,3646.7,9.2,0,0,buy online,0,0
+SES-00289,USR-07909,2024-12-29,Kochi,Mobile,Books,11,5,1,0,14.0,0,1,best books,1,1
+SES-00290,USR-00500,2024-08-02,Kochi,Mobile,Auto,14,1,0,440.18,37.7,0,0,best auto,0,1
+SES-00291,USR-02546,2024-06-18,Ahmedabad,Mobile,Auto,11,0,1,2981.71,31.9,1,0,,0,1
+SES-00292,USR-05514,2023-02-06,Mumbai,Mobile,Auto,22,0,0,4081.5,34.3,0,0,top rated,0,0
+SES-00293,USR-03240,2023-08-02,Delhi,Mobile,Toys,5,1,0,3190.36,13.2,0,1,,1,1
+SES-00294,USR-07045,2024-06-12,Mumbai,Desktop,Grocery,17,5,1,6130.32,6.8,0,1,buy online,0,1
+SES-00295,USR-02071,2023-01-28,Pune,Tablet,Auto,18,3,1,4099.71,12.1,0,1,discount,0,0
+SES-00296,USR-01825,2024-09-14,Chennai,Mobile,Electronics,21,0,1,6460.09,38.1,0,1,discount,0,1
+SES-00297,USR-02857,2024-03-13,Chennai,Tablet,Toys,6,0,0,4886.67,19.0,0,0,buy online,0,0
+SES-00298,USR-01849,2023-01-28,Chennai,Mobile,Home & Kitchen,3,4,1,7814.71,20.2,0,0,best home & kitchen,0,0
+SES-00299,USR-00269,2024-06-18,Delhi,Mobile,Grocery,8,1,1,0,4.5,0,0,cheap grocery,0,0
+SES-00300,USR-07441,2024-06-20,Ahmedabad,Mobile,Sports,3,2,1,732.67,15.7,0,1,best sports,0,1
+SES-00301,USR-01294,2024-03-01,Bengaluru,Desktop,Toys,8,2,1,0,17.0,0,0,,0,1
+SES-00302,USR-01737,2023-06-13,Bengaluru,Mobile,Beauty,21,0,1,8125.78,24.7,0,0,top rated,1,0
+SES-00303,USR-06469,2024-12-26,Kolkata,Mobile,Clothing,17,2,0,0,13.2,0,1,,1,1
+SES-00304,USR-05679,2023-07-15,Pune,Desktop,Books,2,1,0,0,27.7,0,1,,0,0
+SES-00305,USR-02528,2024-01-08,Kochi,Mobile,Beauty,20,1,1,6225.65,1.1,1,1,cheap beauty,0,1
+SES-00306,USR-03720,2023-06-05,Kochi,Mobile,Books,29,1,1,8712.59,22.8,0,0,best books,1,0
+SES-00307,USR-00829,2023-11-21,Kochi,Mobile,Grocery,27,4,0,3658.12,43.1,0,1,discount,1,0
+SES-00308,USR-06102,2023-01-05,Mumbai,Tablet,Toys,25,0,0,0,13.1,0,0,discount,0,1
+SES-00309,USR-00970,2023-02-13,Bengaluru,Tablet,Books,18,4,0,1828.83,9.0,1,1,discount,0,1
+SES-00310,USR-00446,2024-09-10,Chennai,Mobile,Toys,10,1,1,231.51,34.3,0,1,best toys,1,1
+SES-00311,USR-05183,2024-12-08,Jaipur,Tablet,Electronics,13,4,1,967.37,30.4,0,1,buy online,1,1
+SES-00312,USR-00363,2023-05-25,Ahmedabad,Desktop,Clothing,30,1,1,0,33.9,1,1,,0,1
+SES-00313,USR-07133,2023-04-21,Mumbai,Tablet,Furniture,28,2,1,1784.46,43.4,0,1,best furniture,0,0
+SES-00314,USR-01332,2023-10-09,Chennai,Tablet,Clothing,3,4,1,1596.18,35.4,0,1,best clothing,0,1
+SES-00315,USR-02056,2024-02-21,Chennai,Tablet,Furniture,14,3,0,4590.39,4.2,0,0,,0,1
+SES-00316,USR-06147,2023-04-05,Kolkata,Mobile,Home & Kitchen,15,3,1,7696.78,12.3,0,0,discount,1,0
+SES-00317,USR-01863,2023-09-16,Delhi,Tablet,Clothing,10,0,0,0,5.3,0,0,cheap clothing,1,1
+SES-00318,USR-03279,2023-10-31,Kochi,Mobile,Clothing,30,5,0,7045.98,6.5,0,1,best clothing,1,0
+SES-00319,USR-06386,2023-01-26,Jaipur,Desktop,Clothing,13,1,1,1904.31,2.1,0,1,cheap clothing,1,1
+SES-00320,USR-01651,2023-06-25,Mumbai,Mobile,Beauty,22,3,1,4401.36,25.0,0,0,best beauty,0,1
+SES-00321,USR-00935,2024-12-24,Kolkata,Desktop,Clothing,22,4,1,7609.54,20.9,1,1,buy online,0,1
+SES-00322,USR-00344,2024-07-31,Kolkata,Mobile,Sports,23,1,1,485.67,40.8,0,1,discount,1,0
+SES-00323,USR-00723,2024-09-04,Hyderabad,Mobile,Electronics,22,2,1,0,29.3,0,0,,1,0
+SES-00324,USR-05680,2023-04-22,Bengaluru,Desktop,Auto,1,0,1,0,23.6,1,0,discount,0,0
+SES-00325,USR-06631,2023-05-21,Jaipur,Mobile,Electronics,4,1,1,3998.0,40.8,0,0,best electronics,0,1
+SES-00326,USR-01487,2024-11-27,Kochi,Mobile,Beauty,8,4,0,0,3.3,1,1,cheap beauty,0,1
+SES-00327,USR-00736,2024-06-18,Chennai,Desktop,Home & Kitchen,28,3,1,8493.89,22.7,0,0,buy online,0,0
+SES-00328,USR-03043,2024-04-06,Kochi,Tablet,Clothing,28,0,1,8789.23,32.8,0,0,,0,0
+SES-00329,USR-01586,2023-03-01,Kolkata,Desktop,Grocery,16,1,0,0,25.2,1,0,best grocery,0,1
+SES-00330,USR-06520,2024-09-28,Pune,Mobile,Home & Kitchen,2,1,1,0,15.2,1,0,cheap home & kitchen,0,1
+SES-00331,USR-02848,2024-01-11,Pune,Tablet,Auto,15,2,1,0,43.8,0,0,buy online,0,1
+SES-00332,USR-07815,2024-10-21,Jaipur,Mobile,Home & Kitchen,10,0,1,0,39.0,1,0,cheap home & kitchen,0,1
+SES-00333,USR-01236,2024-07-08,Bengaluru,Mobile,Books,12,3,1,6015.17,7.5,1,1,,0,1
+SES-00334,USR-05388,2024-04-07,Bengaluru,Desktop,Grocery,19,1,0,0,42.1,0,0,buy online,1,0
+SES-00335,USR-04683,2023-07-02,Bengaluru,Mobile,Toys,14,1,1,5985.02,24.2,0,1,best toys,1,1
+SES-00336,USR-05881,2024-07-21,Kochi,Mobile,Grocery,23,5,1,4211.33,41.4,0,0,cheap grocery,1,1
+SES-00337,USR-04004,2023-06-10,Ahmedabad,Desktop,Furniture,8,4,0,4759.84,43.7,0,1,cheap furniture,0,1
+SES-00338,USR-00843,2023-12-20,Chennai,Mobile,Electronics,20,2,1,0,7.4,0,1,,0,1
+SES-00339,USR-06372,2023-02-03,Delhi,Mobile,Clothing,22,2,1,2714.04,39.7,1,0,discount,0,0
+SES-00340,USR-03483,2024-09-02,Chennai,Tablet,Books,5,2,1,477.09,14.6,0,1,best books,1,1
+SES-00341,USR-03085,2024-01-30,Bengaluru,Desktop,Books,19,4,1,0,3.4,0,1,top rated,0,0
+SES-00342,USR-04747,2024-12-10,Chennai,Tablet,Furniture,27,3,0,3386.79,34.2,0,1,,0,0
+SES-00343,USR-03654,2024-04-05,Kochi,Mobile,Beauty,10,0,1,393.98,26.4,1,0,buy online,1,1
+SES-00344,USR-02027,2024-08-11,Mumbai,Desktop,Furniture,17,0,1,0,10.2,0,1,buy online,1,1
+SES-00345,USR-02589,2023-01-31,Pune,Desktop,Electronics,8,2,1,0,43.3,0,0,best electronics,1,1
+SES-00346,USR-05403,2024-12-01,Mumbai,Mobile,Books,1,3,0,0,20.5,0,0,top rated,0,0
+SES-00347,USR-02623,2023-07-09,Mumbai,Tablet,Grocery,17,1,1,3409.6,22.0,0,0,best grocery,0,0
+SES-00348,USR-07572,2024-03-06,Mumbai,Mobile,Books,4,4,1,0,33.2,1,0,buy online,1,1
+SES-00349,USR-02528,2023-03-13,Kochi,Mobile,Toys,17,2,1,0,30.5,0,1,cheap toys,0,1
+SES-00350,USR-06238,2023-04-20,Pune,Tablet,Auto,7,5,1,4983.56,28.2,0,0,cheap auto,0,0
+SES-00351,USR-03011,2023-03-20,Bengaluru,Desktop,Auto,5,1,1,3881.59,30.2,1,0,cheap auto,0,0
+SES-00352,USR-03317,2023-01-06,Kolkata,Tablet,Books,6,0,1,0,38.6,0,0,top rated,0,1
+SES-00353,USR-02690,2023-09-05,Kolkata,Mobile,Beauty,30,0,1,2621.35,9.3,0,1,buy online,1,1
+SES-00354,USR-05551,2023-08-28,Jaipur,Mobile,Sports,6,2,0,0,21.3,0,0,cheap sports,1,0
+SES-00355,USR-04312,2023-01-21,Delhi,Mobile,Toys,5,0,0,1632.03,34.2,0,1,,0,1
+SES-00356,USR-07767,2023-05-09,Kochi,Mobile,Auto,30,5,1,0,17.7,0,0,top rated,1,0
+SES-00357,USR-06382,2023-05-18,Jaipur,Mobile,Books,28,0,1,5748.33,24.3,0,1,,0,0
+SES-00358,USR-05047,2024-02-05,Hyderabad,Desktop,Furniture,29,0,0,4766.38,35.0,0,0,cheap furniture,0,0
+SES-00359,USR-07198,2023-10-26,Kochi,Mobile,Auto,1,1,1,0,5.2,0,0,buy online,0,0
+SES-00360,USR-05777,2023-11-10,Kochi,Tablet,Sports,17,2,0,7371.83,28.3,0,0,cheap sports,1,0
+SES-00361,USR-07566,2024-02-01,Bengaluru,Mobile,Books,18,3,0,8380.16,35.1,0,0,,1,0
+SES-00362,USR-07006,2023-07-14,Delhi,Mobile,Sports,14,0,0,2148.71,24.8,0,0,,1,0
+SES-00363,USR-05502,2024-07-24,Kolkata,Desktop,Toys,3,1,0,944.51,40.2,1,0,buy online,1,1
+SES-00364,USR-00349,2024-08-18,Jaipur,Mobile,Toys,5,0,0,5030.43,30.0,0,0,,1,0
+SES-00365,USR-01834,2023-09-27,Bengaluru,Desktop,Grocery,13,5,1,948.94,38.8,1,1,top rated,1,1
+SES-00366,USR-06519,2024-02-07,Delhi,Mobile,Grocery,22,3,0,0,9.9,0,0,,1,0
+SES-00367,USR-00451,2024-05-12,Bengaluru,Mobile,Auto,29,3,1,6459.39,42.5,0,0,cheap auto,0,0
+SES-00368,USR-07765,2023-05-29,Delhi,Desktop,Books,11,4,1,0,8.0,0,1,best books,0,1
+SES-00369,USR-01483,2024-03-04,Kochi,Mobile,Clothing,24,0,1,4080.23,5.1,0,0,buy online,0,1
+SES-00370,USR-06893,2024-10-22,Hyderabad,Mobile,Sports,16,0,1,4534.45,9.2,0,1,top rated,1,1
+SES-00371,USR-01048,2024-08-23,Chennai,Mobile,Auto,2,2,1,8084.43,6.3,1,0,,0,1
+SES-00372,USR-00120,2024-10-16,Delhi,Mobile,Toys,18,5,0,4403.42,7.1,0,1,cheap toys,0,1
+SES-00373,USR-05417,2023-11-29,Hyderabad,Tablet,Electronics,17,2,0,0,12.4,0,1,best electronics,1,0
+SES-00374,USR-07698,2023-04-17,Kolkata,Mobile,Books,19,0,1,3721.72,7.3,0,0,buy online,0,0
+SES-00375,USR-01499,2023-12-18,Bengaluru,Mobile,Sports,21,3,1,2292.12,23.9,0,0,cheap sports,0,0
+SES-00376,USR-03527,2023-08-28,Chennai,Mobile,Auto,2,2,1,3755.39,26.8,0,1,,1,1
+SES-00377,USR-04501,2023-11-22,Bengaluru,Desktop,Books,17,3,1,0,11.2,0,1,cheap books,0,1
+SES-00378,USR-05234,2023-11-12,Pune,Mobile,Grocery,18,4,1,0,39.6,1,1,best grocery,1,0
+SES-00379,USR-02026,2024-01-20,Hyderabad,Tablet,Books,23,1,0,7605.13,30.7,1,1,discount,0,1
+SES-00380,USR-06306,2024-06-08,Jaipur,Mobile,Toys,24,2,0,3366.56,44.8,0,0,cheap toys,0,0
+SES-00381,USR-04854,2024-12-07,Mumbai,Desktop,Auto,2,5,0,6924.26,34.0,0,0,top rated,0,1
+SES-00382,USR-00104,2024-02-19,Chennai,Desktop,Electronics,4,2,0,1250.28,27.1,0,1,,1,0
+SES-00383,USR-03517,2023-06-06,Kolkata,Desktop,Grocery,24,3,0,0,34.4,0,1,buy online,0,1
+SES-00384,USR-05719,2024-10-07,Mumbai,Mobile,Beauty,13,5,0,4941.98,29.4,1,0,top rated,0,0
+SES-00385,USR-05915,2023-12-13,Ahmedabad,Tablet,Furniture,16,3,1,0,38.7,0,0,cheap furniture,1,1
+SES-00386,USR-04993,2023-12-04,Kochi,Mobile,Books,27,1,0,3221.12,2.2,0,0,cheap books,0,1
+SES-00387,USR-04553,2023-04-03,Kolkata,Mobile,Toys,13,0,1,4599.6,15.8,1,1,best toys,0,0
+SES-00388,USR-00971,2024-01-11,Bengaluru,Tablet,Toys,11,4,1,0,24.4,0,0,cheap toys,1,1
+SES-00389,USR-01004,2023-05-30,Bengaluru,Mobile,Sports,6,1,0,4771.17,30.3,0,0,buy online,0,0
+SES-00390,USR-03885,2024-07-28,Bengaluru,Mobile,Auto,4,2,1,3393.66,3.3,0,0,buy online,0,1
+SES-00391,USR-06811,2023-04-12,Chennai,Desktop,Electronics,30,5,0,0,13.7,0,0,,0,1
+SES-00392,USR-00274,2023-08-17,Kolkata,Mobile,Books,12,1,0,0,17.4,0,1,,0,1
+SES-00393,USR-04602,2024-09-29,Hyderabad,Tablet,Grocery,17,2,1,0,22.9,1,0,buy online,0,1
+SES-00394,USR-05633,2024-01-29,Ahmedabad,Mobile,Grocery,1,4,0,5403.17,43.9,0,0,cheap grocery,0,1
+SES-00395,USR-06374,2024-12-24,Ahmedabad,Mobile,Clothing,2,5,1,0,17.6,1,0,top rated,0,0
+SES-00396,USR-07016,2024-07-03,Chennai,Mobile,Toys,1,3,0,0,31.0,1,0,top rated,0,0
+SES-00397,USR-03922,2024-12-15,Jaipur,Mobile,Toys,2,1,0,5363.22,4.1,0,0,buy online,1,0
+SES-00398,USR-01395,2024-01-10,Kochi,Desktop,Home & Kitchen,10,1,1,0,3.2,1,1,buy online,1,1
+SES-00399,USR-01117,2024-09-22,Jaipur,Tablet,Books,21,2,0,6564.88,17.0,1,0,discount,1,1
+SES-00400,USR-05203,2024-08-29,Kolkata,Mobile,Clothing,30,1,0,2937.37,6.5,1,1,top rated,0,1
+SES-00401,USR-03684,2024-03-17,Kolkata,Mobile,Clothing,2,0,0,3779.07,14.6,0,0,top rated,0,1
+SES-00402,USR-05137,2023-02-03,Delhi,Mobile,Electronics,30,2,1,8505.91,43.3,0,0,buy online,1,1
+SES-00403,USR-01723,2024-09-04,Pune,Tablet,Clothing,2,5,0,0,10.1,0,1,buy online,0,1
+SES-00404,USR-05299,2024-05-11,Pune,Mobile,Furniture,15,1,0,0,42.2,1,1,top rated,0,0
+SES-00405,USR-01417,2024-01-24,Delhi,Mobile,Grocery,16,0,0,4313.42,40.8,0,0,best grocery,0,1
+SES-00406,USR-03711,2024-12-16,Mumbai,Desktop,Toys,3,4,0,0,35.2,0,0,cheap toys,1,1
+SES-00407,USR-00663,2024-08-20,Mumbai,Desktop,Beauty,11,5,1,7241.53,39.3,0,1,top rated,0,0
+SES-00408,USR-06693,2024-02-27,Bengaluru,Mobile,Electronics,18,4,1,1565.66,28.2,1,0,buy online,0,0
+SES-00409,USR-04332,2024-08-06,Jaipur,Mobile,Auto,19,5,1,0,37.7,1,0,cheap auto,1,1
+SES-00410,USR-06673,2024-09-16,Kochi,Mobile,Books,22,5,0,4726.0,27.6,0,0,cheap books,0,1
+SES-00411,USR-06954,2023-06-24,Chennai,Desktop,Furniture,5,0,0,0,22.0,0,0,discount,1,0
+SES-00412,USR-06471,2024-07-09,Kochi,Tablet,Grocery,15,2,1,3977.43,36.4,0,0,buy online,0,0
+SES-00413,USR-03789,2024-12-23,Mumbai,Mobile,Toys,1,3,1,2787.19,35.9,0,1,,0,0
+SES-00414,USR-07677,2023-12-25,Chennai,Mobile,Books,27,4,0,8244.85,39.6,0,0,,0,1
+SES-00415,USR-04031,2023-09-14,Kochi,Tablet,Clothing,5,2,1,2945.61,26.9,1,0,top rated,0,0
+SES-00416,USR-05462,2024-01-28,Pune,Mobile,Beauty,21,5,0,8071.18,22.3,0,1,,0,0
+SES-00417,USR-00439,2023-07-25,Chennai,Mobile,Home & Kitchen,3,5,0,4714.62,12.4,0,0,,1,1
+SES-00418,USR-06081,2023-02-02,Kochi,Desktop,Grocery,25,4,0,3230.81,34.5,0,0,buy online,0,0
+SES-00419,USR-00551,2024-09-15,Delhi,Mobile,Sports,17,4,1,2267.62,38.3,0,1,,1,0
+SES-00420,USR-03055,2024-10-26,Jaipur,Desktop,Grocery,9,5,1,3899.83,16.0,1,1,cheap grocery,0,0
+SES-00421,USR-01555,2023-10-11,Jaipur,Mobile,Home & Kitchen,29,0,1,7021.52,10.9,1,0,buy online,0,1
+SES-00422,USR-06837,2023-11-06,Pune,Tablet,Beauty,13,4,1,400.65,3.7,0,0,top rated,0,1
+SES-00423,USR-04329,2023-03-19,Kolkata,Tablet,Auto,11,4,0,1174.66,9.7,0,0,buy online,0,1
+SES-00424,USR-04241,2023-08-25,Kochi,Desktop,Sports,30,5,0,1072.91,5.3,1,1,buy online,0,1
+SES-00425,USR-05373,2024-08-06,Hyderabad,Mobile,Toys,24,4,1,0,32.6,0,0,,0,0
+SES-00426,USR-00058,2023-02-12,Chennai,Mobile,Auto,28,2,0,7799.57,29.0,0,0,cheap auto,0,1
+SES-00427,USR-06234,2023-04-25,Chennai,Tablet,Home & Kitchen,23,1,1,0,17.1,1,1,best home & kitchen,1,1
+SES-00428,USR-01543,2024-01-13,Delhi,Mobile,Toys,22,1,1,0,26.9,1,0,top rated,0,0
+SES-00429,USR-07604,2023-12-10,Kochi,Mobile,Books,11,3,0,823.16,42.7,0,0,best books,0,0
+SES-00430,USR-04942,2024-01-26,Jaipur,Tablet,Furniture,25,1,1,478.84,42.9,0,0,,1,0
+SES-00431,USR-03840,2024-03-02,Kochi,Mobile,Electronics,16,4,1,0,22.8,0,0,discount,1,1
+SES-00432,USR-00292,2024-09-21,Ahmedabad,Mobile,Books,7,4,1,0,44.3,1,0,,0,0
+SES-00433,USR-02612,2023-10-12,Mumbai,Desktop,Electronics,16,1,0,0,2.8,0,0,buy online,0,0
+SES-00434,USR-07259,2023-05-09,Hyderabad,Mobile,Furniture,26,0,1,0,32.9,0,0,cheap furniture,0,1
+SES-00435,USR-04866,2024-07-06,Hyderabad,Mobile,Beauty,22,4,0,0,42.0,0,0,cheap beauty,0,1
+SES-00436,USR-05022,2024-09-05,Hyderabad,Mobile,Toys,2,1,0,8321.14,14.9,0,0,,0,0
+SES-00437,USR-05369,2023-02-01,Kochi,Mobile,Auto,5,2,0,0,25.6,0,1,buy online,1,0
+SES-00438,USR-01694,2023-11-29,Hyderabad,Desktop,Clothing,16,0,1,5211.62,8.5,1,0,cheap clothing,1,1
+SES-00439,USR-07716,2023-08-15,Kolkata,Mobile,Books,11,5,0,4226.19,28.3,0,0,,0,1
+SES-00440,USR-04688,2023-12-18,Kolkata,Mobile,Grocery,23,1,1,5193.21,12.8,1,0,,0,1
+SES-00441,USR-02402,2024-12-25,Delhi,Mobile,Clothing,29,2,1,0,30.7,0,0,cheap clothing,0,0
+SES-00442,USR-03561,2024-12-21,Hyderabad,Mobile,Beauty,13,5,0,6818.17,1.9,1,0,best beauty,0,1
+SES-00443,USR-03404,2023-10-03,Chennai,Tablet,Electronics,26,0,0,6309.91,41.7,0,1,cheap electronics,0,1
+SES-00444,USR-02077,2024-12-29,Jaipur,Tablet,Toys,10,5,1,0,3.0,0,0,,0,0
+SES-00445,USR-05462,2024-01-23,Delhi,Mobile,Books,19,0,1,5411.76,15.6,0,0,buy online,0,1
+SES-00446,USR-07375,2024-12-18,Delhi,Mobile,Electronics,20,1,0,0,17.7,0,1,top rated,0,1
+SES-00447,USR-05883,2023-03-30,Kochi,Mobile,Furniture,24,5,1,0,14.3,0,0,buy online,1,0
+SES-00448,USR-04196,2024-05-16,Kolkata,Mobile,Clothing,17,5,1,0,2.0,0,1,discount,0,1
+SES-00449,USR-00153,2023-08-23,Mumbai,Mobile,Sports,20,5,0,3862.02,3.0,0,0,buy online,1,1
+SES-00450,USR-02878,2023-05-25,Pune,Mobile,Beauty,9,5,0,0,4.1,0,1,buy online,0,1
+SES-00451,USR-03958,2023-05-17,Chennai,Desktop,Toys,17,5,1,0,8.2,1,0,,0,1
+SES-00452,USR-01427,2024-03-05,Jaipur,Mobile,Sports,1,4,0,4562.21,19.4,1,0,buy online,0,1
+SES-00453,USR-00426,2023-02-21,Chennai,Mobile,Clothing,18,3,1,0,31.3,0,0,top rated,0,1
+SES-00454,USR-04473,2023-11-18,Hyderabad,Desktop,Beauty,9,4,1,6217.98,2.2,0,1,,0,0
+SES-00455,USR-01281,2024-04-07,Bengaluru,Mobile,Books,11,5,1,3096.17,41.6,0,0,buy online,0,0
+SES-00456,USR-06345,2023-05-04,Chennai,Mobile,Books,29,3,0,5030.49,11.6,1,1,best books,0,1
+SES-00457,USR-06559,2024-03-26,Ahmedabad,Tablet,Electronics,29,2,1,5253.42,11.6,0,0,,1,1
+SES-00458,USR-02125,2024-01-18,Pune,Tablet,Clothing,7,5,1,2814.66,30.8,0,0,top rated,1,1
+SES-00459,USR-01126,2024-09-18,Ahmedabad,Mobile,Auto,8,0,0,6436.4,38.4,1,0,buy online,1,0
+SES-00460,USR-07931,2023-04-05,Kochi,Tablet,Sports,30,4,0,4556.83,12.4,1,0,discount,1,1
+SES-00461,USR-04398,2024-10-20,Ahmedabad,Mobile,Sports,29,4,1,962.92,24.9,0,0,discount,0,0
+SES-00462,USR-05154,2023-01-18,Mumbai,Tablet,Furniture,8,0,1,795.68,30.4,0,0,top rated,0,1
+SES-00463,USR-00279,2024-01-27,Ahmedabad,Mobile,Electronics,4,3,1,6628.63,7.3,0,0,buy online,0,1
+SES-00464,USR-00022,2024-04-08,Chennai,Mobile,Grocery,8,5,1,6122.24,44.3,0,0,best grocery,1,0
+SES-00465,USR-04232,2023-07-02,Ahmedabad,Mobile,Toys,8,2,0,4867.64,26.1,0,0,best toys,0,1
+SES-00466,USR-01537,2023-03-27,Delhi,Mobile,Toys,21,2,0,0,4.0,0,0,cheap toys,0,1
+SES-00467,USR-03611,2024-03-03,Delhi,Desktop,Toys,9,2,1,6267.69,27.8,0,1,top rated,0,1
+SES-00468,USR-02211,2023-04-16,Kolkata,Tablet,Grocery,12,2,1,0,18.5,1,1,,1,0
+SES-00469,USR-01018,2023-01-22,Delhi,Desktop,Furniture,22,3,1,4565.96,25.1,1,1,best furniture,0,0
+SES-00470,USR-05983,2024-03-27,Hyderabad,Mobile,Electronics,8,5,1,4722.17,28.2,0,0,cheap electronics,1,0
+SES-00471,USR-00090,2023-03-02,Jaipur,Mobile,Electronics,16,1,0,0,32.9,0,0,buy online,0,1
+SES-00472,USR-02500,2024-03-18,Delhi,Tablet,Auto,6,2,0,0,23.4,0,0,buy online,0,1
+SES-00473,USR-07906,2024-11-05,Jaipur,Mobile,Books,25,1,1,0,30.4,1,0,top rated,0,1
+SES-00474,USR-03081,2023-01-30,Kochi,Tablet,Beauty,27,2,0,5658.16,27.8,0,1,,0,1
+SES-00475,USR-06327,2024-07-23,Mumbai,Desktop,Books,10,3,0,4332.85,26.3,1,1,buy online,0,1
+SES-00476,USR-00421,2024-04-05,Bengaluru,Mobile,Grocery,26,2,1,448.2,21.8,0,0,cheap grocery,0,0
+SES-00477,USR-07507,2023-08-02,Chennai,Mobile,Furniture,21,1,0,2641.44,4.8,0,0,best furniture,0,1
+SES-00478,USR-05434,2024-11-16,Delhi,Mobile,Toys,21,5,0,0,22.6,0,0,buy online,0,0
+SES-00479,USR-05550,2024-11-28,Ahmedabad,Mobile,Grocery,26,1,1,2646.24,31.3,0,1,cheap grocery,0,0
+SES-00480,USR-04422,2023-12-08,Chennai,Mobile,Home & Kitchen,24,3,1,3138.21,36.9,0,0,,0,0
+SES-00481,USR-02135,2024-03-29,Chennai,Mobile,Toys,26,4,0,0,25.3,0,0,best toys,0,1
+SES-00482,USR-07829,2023-04-28,Kolkata,Tablet,Grocery,27,1,0,5649.25,17.4,0,0,buy online,0,0
+SES-00483,USR-03290,2023-04-28,Bengaluru,Mobile,Grocery,8,0,0,4959.83,30.2,1,0,best grocery,0,0
+SES-00484,USR-01659,2023-06-07,Bengaluru,Mobile,Auto,26,2,0,287.68,37.6,0,0,best auto,0,0
+SES-00485,USR-01930,2023-06-03,Kolkata,Mobile,Grocery,11,3,1,8477.14,32.7,0,1,discount,1,0
+SES-00486,USR-05701,2024-06-12,Mumbai,Tablet,Sports,23,1,0,4829.25,5.2,0,0,,0,1
+SES-00487,USR-00885,2024-11-29,Jaipur,Tablet,Books,25,5,1,1887.67,5.8,0,0,,1,1
+SES-00488,USR-01712,2023-01-09,Jaipur,Tablet,Furniture,28,2,1,4277.89,32.7,1,0,discount,1,1
+SES-00489,USR-05830,2024-07-12,Mumbai,Mobile,Auto,4,3,1,0,31.0,0,0,best auto,1,0
+SES-00490,USR-07658,2024-07-05,Mumbai,Mobile,Home & Kitchen,3,5,1,3827.65,23.7,0,0,,0,1
+SES-00491,USR-06852,2023-01-11,Delhi,Desktop,Beauty,28,2,0,0,36.1,1,0,,0,1
+SES-00492,USR-00430,2023-05-23,Hyderabad,Mobile,Furniture,7,1,1,5785.66,17.3,0,1,best furniture,0,1
+SES-00493,USR-02724,2024-02-26,Hyderabad,Mobile,Furniture,30,3,0,0,38.0,0,0,best furniture,0,0
+SES-00494,USR-05574,2023-07-26,Bengaluru,Desktop,Clothing,14,3,0,8028.84,23.8,0,0,best clothing,0,0
+SES-00495,USR-02371,2024-01-20,Bengaluru,Mobile,Auto,7,5,0,875.29,1.6,0,0,discount,1,1
+SES-00496,USR-07162,2024-05-27,Bengaluru,Mobile,Electronics,18,3,1,1057.48,23.6,0,0,discount,1,0
+SES-00497,USR-06884,2024-05-01,Delhi,Mobile,Home & Kitchen,20,4,0,0,1.6,0,0,cheap home & kitchen,0,0
+SES-00498,USR-01649,2024-11-07,Chennai,Mobile,Beauty,3,5,1,4294.07,20.2,0,1,cheap beauty,1,1
+SES-00499,USR-00079,2023-08-02,Mumbai,Desktop,Beauty,10,1,0,4252.2,10.4,1,1,discount,0,1
+SES-00500,USR-06119,2023-06-26,Jaipur,Mobile,Grocery,30,1,0,5761.29,32.8,0,1,discount,0,0
+SES-00501,USR-01408,2024-04-08,Ahmedabad,Mobile,Toys,14,5,0,0,40.2,0,0,top rated,0,1
+SES-00502,USR-00104,2023-09-18,Chennai,Mobile,Auto,1,5,1,6603.78,7.8,1,0,,1,0
+SES-00503,USR-03324,2023-01-23,Pune,Tablet,Grocery,13,3,1,538.67,15.1,0,0,top rated,1,0
+SES-00504,USR-04359,2024-12-05,Hyderabad,Mobile,Electronics,19,3,1,2716.43,42.2,0,0,discount,0,0
+SES-00505,USR-03639,2023-12-08,Pune,Mobile,Beauty,6,2,1,0,27.3,0,0,,0,1
+SES-00506,USR-05986,2023-05-08,Hyderabad,Mobile,Toys,10,1,1,6761.47,43.5,0,0,,0,0
+SES-00507,USR-00574,2023-11-22,Mumbai,Mobile,Clothing,3,0,0,0,42.1,0,1,buy online,1,0
+SES-00508,USR-07682,2023-01-16,Mumbai,Mobile,Books,15,2,1,7655.27,25.4,0,1,buy online,1,0
+SES-00509,USR-05366,2024-05-02,Chennai,Mobile,Auto,10,3,0,0,32.7,0,0,,0,0
+SES-00510,USR-06704,2024-01-22,Jaipur,Mobile,Auto,25,2,0,0,34.0,1,0,top rated,1,0
+SES-00511,USR-03093,2024-11-10,Kolkata,Tablet,Clothing,25,0,1,6321.96,20.2,0,0,buy online,0,0
+SES-00512,USR-00218,2023-02-05,Kolkata,Mobile,Electronics,5,2,0,0,24.9,1,1,,0,0
+SES-00513,USR-06468,2023-06-16,Mumbai,Mobile,Books,29,4,1,3947.83,31.7,0,0,,1,1
+SES-00514,USR-04549,2024-08-22,Ahmedabad,Desktop,Sports,12,0,1,0,13.0,0,0,cheap sports,0,1
+SES-00515,USR-04075,2023-07-02,Pune,Tablet,Books,20,2,0,3278.04,3.2,0,1,top rated,0,0
+SES-00516,USR-06354,2024-02-11,Kolkata,Tablet,Auto,21,0,0,6660.94,23.8,1,0,cheap auto,0,1
+SES-00517,USR-07760,2023-07-21,Kochi,Desktop,Books,18,5,1,0,31.4,1,0,,0,1
+SES-00518,USR-04478,2024-06-05,Jaipur,Tablet,Toys,23,3,0,1865.46,42.5,0,1,top rated,0,0
+SES-00519,USR-05269,2023-11-23,Ahmedabad,Tablet,Sports,29,0,0,0,39.2,0,0,buy online,1,1
+SES-00520,USR-03752,2024-12-03,Bengaluru,Tablet,Books,29,2,0,3213.46,25.9,1,1,cheap books,0,1
+SES-00521,USR-04702,2023-04-02,Mumbai,Mobile,Electronics,29,4,1,6332.69,28.9,1,0,discount,1,1
+SES-00522,USR-07879,2024-04-09,Hyderabad,Tablet,Beauty,15,1,0,6490.85,25.1,0,0,,0,0
+SES-00523,USR-05148,2024-03-27,Pune,Mobile,Grocery,17,5,1,0,38.6,0,1,discount,0,0
+SES-00524,USR-04549,2023-02-08,Hyderabad,Desktop,Books,13,2,1,0,21.2,1,0,,0,1
+SES-00525,USR-07120,2024-06-28,Mumbai,Tablet,Electronics,20,2,0,0,19.9,0,1,,0,1
+SES-00526,USR-02184,2023-04-11,Mumbai,Mobile,Beauty,29,2,0,961.67,10.3,0,1,top rated,0,1
+SES-00527,USR-05947,2023-01-08,Chennai,Tablet,Auto,20,2,1,0,32.2,0,1,discount,0,1
+SES-00528,USR-07821,2023-07-14,Pune,Mobile,Beauty,12,4,1,0,18.9,0,0,top rated,1,1
+SES-00529,USR-01512,2024-10-25,Delhi,Tablet,Sports,30,3,1,0,9.2,0,1,,1,1
+SES-00530,USR-03526,2023-12-27,Ahmedabad,Tablet,Electronics,25,3,0,0,5.4,0,0,top rated,0,1
+SES-00531,USR-04354,2023-07-24,Kochi,Mobile,Books,7,0,1,5692.52,34.0,1,1,,0,1
+SES-00532,USR-01503,2023-03-03,Kolkata,Mobile,Beauty,1,5,0,3066.95,11.9,0,0,,0,1
+SES-00533,USR-01409,2024-10-05,Pune,Mobile,Toys,15,1,1,8362.34,14.7,0,1,best toys,1,1
+SES-00534,USR-06973,2023-03-15,Delhi,Mobile,Auto,1,5,0,1300.37,2.7,1,1,best auto,0,0
+SES-00535,USR-01158,2024-08-23,Hyderabad,Mobile,Toys,6,2,0,1299.18,6.7,0,1,,0,1
+SES-00536,USR-01167,2024-06-16,Delhi,Mobile,Toys,6,3,0,0,35.7,0,1,buy online,0,1
+SES-00537,USR-07995,2023-12-29,Bengaluru,Desktop,Grocery,23,3,1,6659.99,11.9,0,1,cheap grocery,0,0
+SES-00538,USR-02193,2023-07-27,Kochi,Mobile,Books,22,1,0,5475.99,39.8,0,0,best books,0,0
+SES-00539,USR-00443,2024-12-05,Bengaluru,Tablet,Toys,20,5,1,0,30.7,1,0,,0,0
+SES-00540,USR-04446,2023-01-11,Chennai,Mobile,Beauty,20,3,1,0,12.8,0,0,top rated,0,0
+SES-00541,USR-04845,2023-05-25,Pune,Tablet,Auto,9,1,1,5151.54,10.1,0,0,best auto,0,1
+SES-00542,USR-03587,2023-11-08,Kolkata,Mobile,Furniture,15,4,0,0,29.6,0,0,top rated,0,0
+SES-00543,USR-04565,2023-01-05,Kolkata,Mobile,Grocery,20,1,1,3234.08,22.6,1,0,top rated,1,1
+SES-00544,USR-00895,2023-02-05,Bengaluru,Mobile,Clothing,23,0,1,3308.68,20.4,0,1,,0,1
+SES-00545,USR-04951,2023-06-27,Jaipur,Mobile,Beauty,25,5,1,0,4.5,1,1,,1,1
+SES-00546,USR-04112,2024-01-28,Bengaluru,Mobile,Clothing,10,0,1,4204.19,31.1,0,1,buy online,1,1
+SES-00547,USR-06698,2024-07-02,Pune,Mobile,Electronics,7,4,0,0,34.0,0,0,,0,0
+SES-00548,USR-01716,2023-08-26,Mumbai,Mobile,Grocery,12,3,1,3922.4,24.3,0,0,best grocery,1,1
+SES-00549,USR-02641,2024-07-14,Chennai,Desktop,Beauty,1,5,1,6797.76,28.0,0,1,discount,0,1
+SES-00550,USR-06570,2024-09-26,Pune,Desktop,Home & Kitchen,5,5,1,8833.1,38.1,1,1,buy online,0,1
+SES-00551,USR-00041,2024-10-31,Delhi,Mobile,Books,16,1,1,8940.16,21.1,0,0,,0,0
+SES-00552,USR-00447,2024-05-30,Chennai,Desktop,Beauty,4,0,1,0,44.7,1,0,discount,0,0
+SES-00553,USR-04484,2023-02-07,Hyderabad,Desktop,Electronics,29,2,0,610.52,29.1,1,0,best electronics,1,1
+SES-00554,USR-02984,2023-03-31,Jaipur,Desktop,Furniture,10,1,0,5101.97,35.0,0,1,discount,0,1
+SES-00555,USR-01802,2024-09-24,Kolkata,Mobile,Beauty,8,0,1,0,10.3,1,0,buy online,1,1
+SES-00556,USR-06543,2024-03-07,Kolkata,Tablet,Clothing,23,4,1,6032.0,8.4,0,0,discount,0,0
+SES-00557,USR-02269,2024-09-04,Kochi,Mobile,Home & Kitchen,4,0,0,6398.86,37.4,0,1,top rated,0,0
+SES-00558,USR-06014,2023-11-27,Bengaluru,Mobile,Toys,7,5,0,0,34.7,0,0,,1,0
+SES-00559,USR-06644,2023-07-08,Ahmedabad,Mobile,Books,10,2,1,4031.25,43.7,1,1,buy online,0,0
+SES-00560,USR-02663,2024-03-08,Pune,Tablet,Auto,12,5,1,7171.05,23.0,0,1,cheap auto,0,1
+SES-00561,USR-01484,2023-11-28,Chennai,Mobile,Furniture,3,3,1,0,41.6,0,1,cheap furniture,0,0
+SES-00562,USR-00689,2023-06-22,Pune,Desktop,Books,6,2,0,1267.19,7.9,0,0,top rated,0,1
+SES-00563,USR-01614,2024-02-02,Pune,Tablet,Beauty,6,4,1,0,10.7,0,0,buy online,1,1
+SES-00564,USR-07784,2024-12-11,Kolkata,Desktop,Furniture,20,4,1,2826.38,12.9,0,1,best furniture,0,1
+SES-00565,USR-05651,2024-07-11,Hyderabad,Mobile,Toys,11,0,1,0,30.3,1,0,buy online,0,1
+SES-00566,USR-06082,2024-08-10,Kolkata,Mobile,Sports,20,5,1,0,38.0,0,0,best sports,0,0
+SES-00567,USR-07576,2023-03-30,Pune,Mobile,Electronics,3,1,1,0,44.4,0,0,cheap electronics,0,0
+SES-00568,USR-01220,2024-11-05,Delhi,Mobile,Beauty,3,5,1,2238.72,21.4,1,1,,0,1
+SES-00569,USR-06303,2023-02-12,Mumbai,Mobile,Auto,27,3,0,0,18.9,0,0,buy online,0,1
+SES-00570,USR-03647,2023-12-06,Pune,Mobile,Grocery,22,2,1,0,28.5,0,1,top rated,1,0
+SES-00571,USR-04233,2024-07-07,Ahmedabad,Mobile,Sports,15,4,0,8028.4,32.0,0,1,best sports,1,0
+SES-00572,USR-00297,2023-07-22,Delhi,Mobile,Toys,20,0,0,0,39.7,0,1,,0,1
+SES-00573,USR-03960,2023-01-26,Bengaluru,Mobile,Books,9,0,1,0,1.6,0,1,discount,0,0
+SES-00574,USR-06065,2023-04-16,Pune,Desktop,Beauty,2,2,0,780.41,38.1,0,0,,0,0
+SES-00575,USR-01262,2023-10-10,Mumbai,Tablet,Beauty,20,5,0,0,35.8,0,0,discount,0,1
+SES-00576,USR-01835,2023-03-26,Delhi,Desktop,Grocery,8,1,0,8519.22,26.8,0,1,,1,1
+SES-00577,USR-01309,2023-04-20,Bengaluru,Tablet,Furniture,18,2,1,0,6.1,0,1,cheap furniture,1,1
+SES-00578,USR-03100,2023-04-25,Bengaluru,Mobile,Electronics,2,5,0,1075.58,42.5,0,0,discount,0,1
+SES-00579,USR-00938,2023-07-06,Ahmedabad,Mobile,Auto,29,0,0,5634.04,24.5,0,0,cheap auto,0,1
+SES-00580,USR-03317,2023-03-30,Hyderabad,Mobile,Toys,11,0,1,3392.78,5.1,1,0,top rated,0,1
+SES-00581,USR-02709,2024-12-27,Bengaluru,Mobile,Toys,17,4,1,0,27.8,0,0,discount,0,1
+SES-00582,USR-07626,2024-05-04,Bengaluru,Desktop,Grocery,29,4,1,0,15.5,1,1,,0,0
+SES-00583,USR-04211,2023-09-12,Kolkata,Desktop,Grocery,20,0,1,0,23.0,0,0,discount,0,1
+SES-00584,USR-00349,2024-06-23,Bengaluru,Mobile,Sports,4,2,0,0,9.6,1,0,buy online,1,0
+SES-00585,USR-07103,2024-12-01,Bengaluru,Desktop,Toys,24,1,1,6367.05,3.8,0,0,,0,1
+SES-00586,USR-00592,2024-05-24,Hyderabad,Mobile,Electronics,8,1,0,2523.52,35.2,0,1,best electronics,0,0
+SES-00587,USR-02602,2024-11-18,Jaipur,Desktop,Furniture,18,1,1,6766.31,38.7,0,1,,0,1
+SES-00588,USR-00153,2023-11-08,Ahmedabad,Mobile,Books,14,4,0,0,8.2,1,0,,0,0
+SES-00589,USR-05802,2024-09-29,Ahmedabad,Mobile,Home & Kitchen,22,3,0,2745.6,36.7,0,0,,1,1
+SES-00590,USR-01936,2023-12-07,Chennai,Desktop,Books,5,3,1,0,17.1,0,0,,1,0
+SES-00591,USR-06286,2024-11-16,Jaipur,Tablet,Sports,12,5,0,7985.26,35.8,0,1,cheap sports,1,0
+SES-00592,USR-03915,2023-04-30,Bengaluru,Desktop,Furniture,8,2,0,7815.78,5.1,1,1,,0,1
+SES-00593,USR-03228,2023-10-27,Mumbai,Tablet,Beauty,17,1,1,2416.74,33.6,1,1,best beauty,0,0
+SES-00594,USR-02503,2024-02-12,Pune,Desktop,Auto,23,0,0,0,31.3,0,0,,0,1
+SES-00595,USR-01031,2023-06-28,Ahmedabad,Desktop,Furniture,30,2,1,2097.59,20.3,0,1,top rated,1,1
+SES-00596,USR-07569,2023-12-26,Delhi,Mobile,Clothing,1,2,1,5624.97,43.8,0,1,buy online,0,1
+SES-00597,USR-00693,2024-10-22,Chennai,Mobile,Sports,13,5,0,0,15.5,0,1,best sports,0,0
+SES-00598,USR-06699,2023-11-07,Kochi,Mobile,Electronics,4,5,1,2458.53,36.9,0,0,buy online,1,0
+SES-00599,USR-00621,2023-05-27,Bengaluru,Mobile,Electronics,27,5,1,1093.08,2.7,1,1,best electronics,0,1
+SES-00600,USR-01520,2023-07-26,Hyderabad,Desktop,Books,28,3,1,0,12.7,0,1,,0,0
+SES-00601,USR-06622,2024-07-10,Hyderabad,Desktop,Clothing,2,2,1,8598.48,15.3,1,0,,0,1
+SES-00602,USR-01903,2024-01-23,Bengaluru,Mobile,Beauty,8,3,1,3382.18,14.0,0,0,discount,1,0
+SES-00603,USR-04196,2024-09-26,Chennai,Mobile,Furniture,28,2,1,6340.34,24.5,0,0,buy online,0,0
+SES-00604,USR-02250,2024-05-23,Ahmedabad,Mobile,Clothing,17,5,1,0,11.5,1,0,best clothing,0,1
+SES-00605,USR-04343,2023-08-10,Ahmedabad,Tablet,Home & Kitchen,24,3,0,0,1.7,0,0,,0,0
+SES-00606,USR-00570,2024-02-09,Pune,Mobile,Sports,10,3,1,3863.8,44.4,1,0,,0,0
+SES-00607,USR-00736,2023-10-12,Kolkata,Desktop,Furniture,19,4,0,7127.28,36.6,0,1,cheap furniture,0,1
+SES-00608,USR-05859,2023-09-22,Kolkata,Mobile,Sports,9,0,1,0,35.5,0,1,buy online,0,1
+SES-00609,USR-07782,2023-08-07,Kochi,Desktop,Electronics,24,4,1,0,42.0,0,0,discount,0,1
+SES-00610,USR-00030,2024-11-25,Pune,Mobile,Electronics,23,3,1,1027.87,24.4,1,0,,0,1
+SES-00611,USR-06269,2023-08-28,Pune,Mobile,Grocery,2,1,0,7476.85,14.2,0,1,cheap grocery,0,0
+SES-00612,USR-01497,2023-05-19,Hyderabad,Tablet,Home & Kitchen,1,5,0,307.37,5.4,0,0,discount,0,0
+SES-00613,USR-06682,2024-06-19,Mumbai,Mobile,Home & Kitchen,23,3,1,7218.36,35.7,0,1,buy online,0,1
+SES-00614,USR-02188,2023-01-23,Kolkata,Desktop,Books,27,2,1,5731.28,33.4,0,1,discount,0,0
+SES-00615,USR-02006,2024-08-25,Hyderabad,Mobile,Toys,10,0,0,7936.92,28.5,0,1,cheap toys,1,1
+SES-00616,USR-03845,2023-12-09,Kochi,Mobile,Sports,6,5,0,0,21.0,0,0,top rated,1,1
+SES-00617,USR-02633,2024-08-18,Mumbai,Desktop,Beauty,13,2,0,5306.74,4.9,0,0,discount,0,1
+SES-00618,USR-06725,2024-11-28,Bengaluru,Mobile,Home & Kitchen,12,4,1,986.36,9.5,1,0,top rated,0,1
+SES-00619,USR-06311,2023-01-19,Jaipur,Tablet,Beauty,30,0,1,0,9.9,0,1,cheap beauty,0,0
+SES-00620,USR-05720,2023-07-31,Mumbai,Mobile,Electronics,9,4,0,0,44.2,1,1,discount,1,1
+SES-00621,USR-05984,2024-08-03,Kochi,Mobile,Electronics,13,1,1,757.36,11.9,0,1,discount,1,1
+SES-00622,USR-03599,2023-08-12,Kolkata,Mobile,Electronics,17,3,1,0,43.1,0,0,,0,1
+SES-00623,USR-05059,2023-01-18,Pune,Desktop,Clothing,16,5,1,8152.99,3.6,1,1,buy online,0,1
+SES-00624,USR-00990,2024-12-18,Mumbai,Mobile,Books,19,3,0,1280.21,4.7,0,1,top rated,0,1
+SES-00625,USR-01914,2023-12-06,Mumbai,Tablet,Sports,4,5,1,0,2.9,1,0,cheap sports,0,1
+SES-00626,USR-03655,2023-08-31,Mumbai,Desktop,Clothing,12,0,0,3089.06,3.2,0,0,,0,1
+SES-00627,USR-06691,2024-02-23,Bengaluru,Mobile,Books,1,1,1,5379.51,17.4,0,1,discount,1,1
+SES-00628,USR-04023,2023-09-28,Ahmedabad,Desktop,Home & Kitchen,9,3,1,0,39.5,0,0,discount,0,0
+SES-00629,USR-01829,2024-08-01,Hyderabad,Mobile,Grocery,19,4,1,3983.98,33.3,1,1,buy online,1,0
+SES-00630,USR-05685,2024-05-26,Jaipur,Mobile,Furniture,25,5,1,0,3.8,1,1,buy online,0,1
+SES-00631,USR-04283,2024-04-11,Mumbai,Desktop,Toys,25,1,1,5103.55,10.3,1,0,best toys,1,1
+SES-00632,USR-00850,2024-11-24,Jaipur,Mobile,Furniture,5,4,1,7701.8,23.3,1,1,,1,0
+SES-00633,USR-05003,2023-07-07,Bengaluru,Tablet,Toys,25,1,0,0,35.4,0,1,top rated,1,0
+SES-00634,USR-00976,2023-09-17,Chennai,Mobile,Grocery,25,5,1,2448.91,26.2,1,1,best grocery,0,1
+SES-00635,USR-07864,2024-01-27,Mumbai,Mobile,Home & Kitchen,15,1,0,0,18.3,0,0,buy online,0,1
+SES-00636,USR-07294,2023-12-25,Jaipur,Mobile,Auto,30,1,0,3016.25,7.0,0,1,discount,1,1
+SES-00637,USR-02698,2023-10-15,Kochi,Tablet,Electronics,16,4,1,1176.47,42.1,0,0,buy online,1,1
+SES-00638,USR-03281,2024-06-09,Jaipur,Mobile,Furniture,13,0,1,489.76,23.8,1,1,cheap furniture,0,0
+SES-00639,USR-00255,2024-07-06,Kochi,Tablet,Auto,28,4,1,0,21.4,0,1,best auto,0,0
+SES-00640,USR-03424,2024-05-26,Ahmedabad,Mobile,Toys,11,0,1,7071.82,41.6,0,1,cheap toys,0,1
+SES-00641,USR-04099,2024-09-01,Delhi,Mobile,Electronics,23,3,1,0,35.7,0,1,best electronics,0,1
+SES-00642,USR-06410,2023-05-02,Mumbai,Mobile,Home & Kitchen,7,2,0,0,8.0,0,0,buy online,1,0
+SES-00643,USR-01978,2023-07-24,Hyderabad,Mobile,Books,10,0,1,3290.68,14.6,0,0,buy online,0,1
+SES-00644,USR-00138,2024-04-26,Jaipur,Desktop,Grocery,4,1,0,4284.14,29.2,0,0,,0,0
+SES-00645,USR-04973,2024-10-05,Delhi,Mobile,Furniture,3,5,1,4389.17,4.5,0,0,best furniture,1,1
+SES-00646,USR-07952,2023-11-18,Jaipur,Mobile,Electronics,21,1,1,0,11.9,0,1,,0,0
+SES-00647,USR-05495,2024-10-22,Pune,Tablet,Auto,20,0,1,0,40.3,0,0,buy online,0,1
+SES-00648,USR-00461,2024-02-19,Hyderabad,Mobile,Home & Kitchen,28,1,1,0,35.8,1,0,top rated,0,0
+SES-00649,USR-04024,2023-12-02,Chennai,Mobile,Sports,26,3,0,8271.63,27.6,0,0,top rated,0,1
+SES-00650,USR-00002,2023-11-29,Bengaluru,Desktop,Clothing,6,5,1,0,20.1,0,1,buy online,0,1
+SES-00651,USR-01969,2023-12-27,Kolkata,Desktop,Grocery,12,1,1,0,15.7,1,0,,0,1
+SES-00652,USR-06735,2023-04-18,Mumbai,Desktop,Furniture,3,0,0,5709.71,43.9,0,1,top rated,0,1
+SES-00653,USR-01543,2024-09-18,Bengaluru,Desktop,Books,29,5,1,0,24.8,0,0,best books,0,1
+SES-00654,USR-07573,2024-05-27,Ahmedabad,Desktop,Toys,20,1,0,4223.25,1.4,1,0,,1,1
+SES-00655,USR-03115,2023-08-16,Jaipur,Tablet,Auto,22,5,0,0,20.2,0,1,discount,1,0
+SES-00656,USR-05209,2024-12-18,Bengaluru,Mobile,Home & Kitchen,16,1,0,0,30.9,1,0,best home & kitchen,0,0
+SES-00657,USR-00650,2024-12-04,Kolkata,Desktop,Auto,4,5,0,0,31.9,0,1,discount,0,0
+SES-00658,USR-07128,2024-10-09,Hyderabad,Mobile,Books,9,4,1,7528.74,22.3,0,0,,0,1
+SES-00659,USR-06553,2023-09-28,Kochi,Mobile,Sports,20,2,0,0,38.8,0,0,,0,1
+SES-00660,USR-01843,2023-12-16,Pune,Mobile,Home & Kitchen,27,1,1,679.8,8.4,1,1,top rated,0,1
+SES-00661,USR-02966,2023-10-02,Pune,Desktop,Electronics,13,4,0,0,14.9,0,1,buy online,0,1
+SES-00662,USR-00254,2024-11-22,Kolkata,Mobile,Auto,21,3,1,0,33.9,0,0,discount,1,0
+SES-00663,USR-03269,2023-10-12,Ahmedabad,Mobile,Electronics,4,1,0,3502.35,29.5,1,0,best electronics,0,1
+SES-00664,USR-04327,2023-12-03,Kolkata,Tablet,Auto,2,4,1,5860.07,21.5,0,0,,0,0
+SES-00665,USR-03106,2024-11-16,Bengaluru,Mobile,Auto,19,2,1,6232.73,2.7,1,1,,0,0
+SES-00666,USR-00570,2024-01-06,Kolkata,Tablet,Toys,3,1,0,0,24.6,0,1,discount,0,1
+SES-00667,USR-01316,2023-12-11,Kolkata,Mobile,Sports,1,2,0,0,16.1,0,0,,1,1
+SES-00668,USR-05860,2023-02-03,Kochi,Tablet,Electronics,21,1,1,0,38.3,0,0,buy online,1,0
+SES-00669,USR-05442,2024-03-01,Delhi,Mobile,Auto,30,2,0,0,15.7,1,0,buy online,1,1
+SES-00670,USR-05396,2024-12-12,Mumbai,Desktop,Electronics,17,4,0,0,10.8,0,0,,0,1
+SES-00671,USR-07594,2024-07-25,Kochi,Mobile,Clothing,1,2,1,8251.37,35.9,0,0,cheap clothing,0,1
+SES-00672,USR-04089,2024-08-02,Bengaluru,Desktop,Sports,6,4,0,0,35.2,0,0,best sports,0,0
+SES-00673,USR-06566,2024-06-02,Chennai,Desktop,Clothing,20,3,0,4775.04,19.8,0,0,,0,0
+SES-00674,USR-01582,2024-06-02,Hyderabad,Tablet,Electronics,10,3,1,2952.13,20.1,1,1,top rated,0,0
+SES-00675,USR-01311,2023-03-11,Ahmedabad,Mobile,Toys,29,1,0,0,19.3,1,0,,0,0
+SES-00676,USR-07668,2023-03-13,Mumbai,Mobile,Beauty,9,4,1,7906.94,43.9,0,0,cheap beauty,0,1
+SES-00677,USR-00885,2023-12-02,Pune,Desktop,Auto,7,2,0,0,6.2,1,0,discount,1,0
+SES-00678,USR-06189,2024-08-11,Kochi,Mobile,Home & Kitchen,25,0,1,5241.69,14.6,0,0,,0,1
+SES-00679,USR-04683,2023-09-26,Hyderabad,Tablet,Toys,23,4,1,4276.23,2.1,0,0,buy online,1,1
+SES-00680,USR-03630,2023-08-19,Pune,Desktop,Beauty,18,1,0,4963.54,44.0,0,0,,1,1
+SES-00681,USR-02273,2023-06-07,Jaipur,Mobile,Clothing,13,5,1,0,21.5,0,0,best clothing,0,0
+SES-00682,USR-00181,2024-06-04,Kolkata,Mobile,Home & Kitchen,1,1,1,4629.28,43.5,1,0,,1,1
+SES-00683,USR-00698,2024-08-03,Kochi,Mobile,Furniture,13,3,1,0,3.6,1,0,top rated,1,1
+SES-00684,USR-00449,2023-06-18,Ahmedabad,Desktop,Beauty,29,5,1,1809.28,14.8,1,0,discount,0,1
+SES-00685,USR-07236,2023-08-29,Kochi,Desktop,Furniture,19,4,0,0,38.2,0,0,buy online,1,0
+SES-00686,USR-03866,2024-06-22,Chennai,Desktop,Grocery,21,0,0,2460.15,39.7,1,1,top rated,1,0
+SES-00687,USR-07452,2023-04-24,Jaipur,Desktop,Home & Kitchen,12,0,1,0,15.8,0,0,cheap home & kitchen,0,0
+SES-00688,USR-01762,2023-07-31,Kolkata,Mobile,Books,11,4,1,4669.23,20.9,0,1,,1,1
+SES-00689,USR-00136,2024-07-03,Mumbai,Desktop,Books,11,3,1,1053.21,13.4,0,1,cheap books,0,1
+SES-00690,USR-07423,2023-03-06,Bengaluru,Desktop,Toys,10,2,0,7343.85,33.8,0,0,,0,0
+SES-00691,USR-04689,2023-11-05,Jaipur,Desktop,Books,19,4,1,0,33.7,0,0,discount,0,1
+SES-00692,USR-06891,2024-05-04,Mumbai,Mobile,Books,8,0,0,0,5.2,1,0,best books,0,1
+SES-00693,USR-00224,2023-11-21,Ahmedabad,Mobile,Beauty,4,2,1,4717.45,19.1,0,0,best beauty,0,1
+SES-00694,USR-00706,2024-02-03,Bengaluru,Mobile,Sports,4,2,1,2803.7,26.0,1,1,,0,1
+SES-00695,USR-04969,2023-10-03,Chennai,Mobile,Furniture,14,3,1,1284.43,10.2,0,0,cheap furniture,1,1
+SES-00696,USR-05946,2023-05-19,Kochi,Mobile,Books,17,0,1,0,6.3,0,0,,0,0
+SES-00697,USR-00632,2023-07-18,Kochi,Tablet,Sports,7,0,1,3661.53,35.9,1,0,best sports,0,0
+SES-00698,USR-05662,2023-07-10,Jaipur,Desktop,Home & Kitchen,16,0,1,2411.95,1.7,0,0,,0,1
+SES-00699,USR-02692,2023-06-03,Mumbai,Mobile,Home & Kitchen,16,2,1,0,12.2,1,0,buy online,1,0
+SES-00700,USR-03048,2024-09-13,Kochi,Desktop,Books,2,2,0,4331.75,16.5,0,1,top rated,1,0
+SES-00701,USR-05117,2024-12-27,Mumbai,Tablet,Clothing,14,0,1,2118.56,43.1,0,0,best clothing,0,0
+SES-00702,USR-06888,2024-03-14,Jaipur,Mobile,Sports,24,4,0,3215.5,27.4,1,0,discount,0,0
+SES-00703,USR-02992,2024-01-09,Delhi,Mobile,Grocery,26,1,1,0,11.9,0,0,discount,0,1
+SES-00704,USR-03616,2024-10-18,Pune,Desktop,Beauty,15,2,1,2009.49,10.0,0,0,,1,1
+SES-00705,USR-01742,2024-04-21,Mumbai,Mobile,Sports,12,4,1,0,36.0,0,0,discount,0,1
+SES-00706,USR-01249,2023-12-10,Delhi,Tablet,Furniture,24,0,0,3505.73,8.9,0,0,buy online,0,0
+SES-00707,USR-03682,2023-03-08,Bengaluru,Mobile,Sports,19,1,1,7864.11,11.6,1,0,,1,1
+SES-00708,USR-00587,2023-05-08,Delhi,Mobile,Furniture,7,5,0,440.66,18.8,0,1,best furniture,0,0
+SES-00709,USR-06987,2023-07-07,Pune,Desktop,Sports,17,4,0,0,37.3,0,0,discount,1,0
+SES-00710,USR-03602,2023-01-26,Pune,Mobile,Clothing,17,3,0,7352.72,9.0,0,1,,0,0
+SES-00711,USR-01007,2023-11-17,Ahmedabad,Desktop,Books,19,0,1,761.47,6.4,0,1,top rated,0,1
+SES-00712,USR-02186,2024-10-26,Delhi,Desktop,Beauty,29,5,1,0,20.1,1,0,buy online,0,0
+SES-00713,USR-03290,2024-08-31,Bengaluru,Mobile,Grocery,29,5,0,8621.91,24.1,0,1,cheap grocery,0,1
+SES-00714,USR-00746,2024-05-18,Mumbai,Desktop,Clothing,9,2,1,8778.6,18.6,1,1,discount,0,0
+SES-00715,USR-01877,2023-03-31,Hyderabad,Desktop,Sports,21,4,0,0,37.3,0,1,discount,1,1
+SES-00716,USR-01248,2024-02-01,Delhi,Mobile,Auto,27,4,0,8826.77,36.1,0,0,top rated,1,1
+SES-00717,USR-04877,2024-02-02,Chennai,Tablet,Sports,26,3,0,0,40.9,0,0,top rated,1,1
+SES-00718,USR-00913,2023-07-16,Kolkata,Mobile,Sports,22,2,1,3049.81,22.4,1,0,discount,0,1
+SES-00719,USR-05806,2023-06-10,Hyderabad,Mobile,Sports,4,3,0,6295.52,27.6,0,0,cheap sports,0,1
+SES-00720,USR-05360,2023-12-29,Kochi,Tablet,Home & Kitchen,12,4,0,7914.12,41.2,0,1,buy online,0,0
+SES-00721,USR-04209,2023-12-09,Chennai,Desktop,Sports,9,5,1,0,41.7,0,0,cheap sports,1,1
+SES-00722,USR-02468,2023-08-12,Ahmedabad,Mobile,Grocery,24,3,0,4739.9,19.1,0,0,,0,0
+SES-00723,USR-04948,2023-05-29,Ahmedabad,Tablet,Grocery,21,0,0,0,43.6,0,0,top rated,0,0
+SES-00724,USR-04175,2024-06-10,Jaipur,Tablet,Auto,24,2,0,0,1.3,0,1,cheap auto,1,0
+SES-00725,USR-03442,2024-02-26,Kolkata,Mobile,Grocery,22,4,0,0,21.1,0,0,,0,0
+SES-00726,USR-03525,2023-12-04,Hyderabad,Mobile,Grocery,28,5,0,0,41.2,0,1,top rated,0,1
+SES-00727,USR-03347,2023-01-13,Chennai,Mobile,Electronics,18,4,1,5570.83,19.6,0,0,top rated,0,1
+SES-00728,USR-01802,2023-07-12,Ahmedabad,Mobile,Electronics,9,2,1,0,38.4,0,0,buy online,0,1
+SES-00729,USR-06907,2023-12-29,Kolkata,Desktop,Grocery,27,1,1,1871.61,13.0,0,1,cheap grocery,0,1
+SES-00730,USR-01557,2024-09-11,Hyderabad,Tablet,Beauty,5,3,1,1644.18,8.7,0,1,best beauty,0,0
+SES-00731,USR-02267,2023-05-02,Ahmedabad,Mobile,Home & Kitchen,30,3,1,0,19.4,0,0,best home & kitchen,1,0
+SES-00732,USR-07944,2024-06-17,Kolkata,Mobile,Furniture,26,0,1,7836.17,31.6,0,0,best furniture,1,1
+SES-00733,USR-05885,2024-09-22,Pune,Mobile,Auto,2,4,0,6938.94,37.2,1,0,buy online,1,0
+SES-00734,USR-07666,2023-05-25,Pune,Mobile,Auto,16,4,0,3177.21,34.4,1,1,,1,1
+SES-00735,USR-00195,2024-06-01,Kolkata,Mobile,Books,26,3,1,0,17.2,1,1,cheap books,0,1
+SES-00736,USR-04483,2024-08-11,Chennai,Mobile,Toys,6,5,0,0,27.7,0,0,cheap toys,0,1
+SES-00737,USR-07807,2023-03-27,Jaipur,Tablet,Home & Kitchen,3,5,1,8549.23,22.4,0,0,,1,0
+SES-00738,USR-06548,2024-05-20,Bengaluru,Mobile,Beauty,26,4,0,4984.97,12.5,0,0,,0,1
+SES-00739,USR-00683,2023-03-13,Kochi,Mobile,Toys,9,1,1,0,6.5,0,0,buy online,1,1
+SES-00740,USR-06397,2023-11-23,Ahmedabad,Mobile,Books,21,4,1,6485.13,8.8,0,0,best books,1,1
+SES-00741,USR-05207,2023-01-22,Kochi,Mobile,Electronics,14,5,0,4214.83,8.8,0,0,buy online,1,1
+SES-00742,USR-03411,2024-02-29,Delhi,Tablet,Home & Kitchen,22,3,1,0,15.4,0,0,buy online,0,1
+SES-00743,USR-07420,2024-03-03,Kolkata,Mobile,Electronics,22,0,1,0,39.1,1,0,buy online,1,0
+SES-00744,USR-00990,2023-09-09,Hyderabad,Mobile,Electronics,5,0,0,8311.91,29.6,0,0,buy online,0,0
+SES-00745,USR-06920,2023-05-28,Jaipur,Mobile,Clothing,26,5,0,2897.0,35.3,0,1,discount,1,0
+SES-00746,USR-03590,2024-10-25,Kochi,Tablet,Beauty,14,5,0,0,20.1,0,1,,0,0
+SES-00747,USR-05819,2024-11-03,Bengaluru,Desktop,Books,11,5,1,7566.05,35.8,0,1,best books,0,1
+SES-00748,USR-05277,2024-04-29,Jaipur,Mobile,Clothing,6,5,0,685.74,27.2,0,1,best clothing,0,1
+SES-00749,USR-06997,2023-08-07,Bengaluru,Mobile,Auto,15,2,0,6741.97,31.6,1,0,,1,1
+SES-00750,USR-05457,2024-11-06,Kochi,Mobile,Clothing,30,4,0,3273.29,10.0,0,0,,0,0
+SES-00751,USR-06704,2023-05-27,Bengaluru,Tablet,Sports,6,4,0,1048.26,15.3,0,1,,0,1
+SES-00752,USR-02895,2024-11-10,Mumbai,Tablet,Clothing,7,0,1,0,13.7,0,0,buy online,1,0
+SES-00753,USR-04068,2023-11-03,Ahmedabad,Mobile,Grocery,29,1,0,0,32.5,0,0,cheap grocery,1,1
+SES-00754,USR-04520,2023-03-01,Hyderabad,Desktop,Home & Kitchen,27,5,1,0,36.8,0,0,cheap home & kitchen,1,0
+SES-00755,USR-01394,2024-12-19,Mumbai,Mobile,Sports,29,3,1,4731.2,9.9,0,0,discount,1,1
+SES-00756,USR-02364,2024-06-07,Bengaluru,Tablet,Toys,6,3,1,3224.96,15.5,0,1,top rated,1,0
+SES-00757,USR-02606,2023-05-15,Kochi,Tablet,Auto,18,1,0,0,20.7,1,0,buy online,1,1
+SES-00758,USR-00890,2024-09-10,Hyderabad,Mobile,Grocery,28,1,0,0,14.2,0,0,cheap grocery,0,0
+SES-00759,USR-02714,2023-01-02,Delhi,Mobile,Beauty,27,0,0,7114.71,6.1,0,0,,1,1
+SES-00760,USR-06279,2023-10-06,Hyderabad,Desktop,Auto,13,4,1,6361.72,26.8,0,1,discount,1,0
+SES-00761,USR-07805,2024-01-31,Delhi,Mobile,Furniture,17,4,1,0,15.5,0,0,,1,1
+SES-00762,USR-05270,2023-08-08,Chennai,Mobile,Electronics,27,5,0,0,44.5,1,0,discount,1,0
+SES-00763,USR-02010,2023-06-18,Ahmedabad,Mobile,Electronics,30,3,1,7553.26,39.2,1,1,discount,1,1
+SES-00764,USR-05472,2023-12-29,Delhi,Mobile,Home & Kitchen,6,0,1,8446.02,17.9,0,0,best home & kitchen,0,1
+SES-00765,USR-04979,2023-10-30,Delhi,Mobile,Furniture,9,3,1,1586.88,7.4,0,1,,0,0
+SES-00766,USR-03438,2024-04-27,Kochi,Mobile,Electronics,8,3,1,5051.68,40.8,1,0,,1,0
+SES-00767,USR-06526,2024-04-06,Mumbai,Mobile,Grocery,11,1,0,2245.35,34.5,0,0,top rated,1,1
+SES-00768,USR-01674,2023-11-01,Kochi,Mobile,Toys,29,0,0,0,43.8,0,1,top rated,0,1
+SES-00769,USR-07277,2023-04-08,Mumbai,Desktop,Grocery,25,4,0,0,36.2,1,1,discount,0,1
+SES-00770,USR-07755,2023-06-09,Ahmedabad,Mobile,Furniture,23,2,1,0,39.0,0,1,cheap furniture,0,1
+SES-00771,USR-03545,2023-10-19,Ahmedabad,Mobile,Sports,24,1,1,3119.53,13.5,0,0,buy online,0,1
+SES-00772,USR-05611,2023-09-08,Jaipur,Mobile,Furniture,3,3,1,1095.87,31.1,0,1,buy online,0,1
+SES-00773,USR-07193,2023-10-02,Ahmedabad,Tablet,Beauty,2,1,1,652.35,2.5,0,0,top rated,1,0
+SES-00774,USR-03992,2023-02-03,Bengaluru,Mobile,Toys,25,2,1,8612.24,40.9,0,1,buy online,0,1
+SES-00775,USR-05632,2023-02-05,Kochi,Mobile,Electronics,4,3,1,0,39.7,0,0,,0,0
+SES-00776,USR-01844,2023-06-23,Hyderabad,Mobile,Books,13,3,1,5925.59,8.8,0,0,best books,1,0
+SES-00777,USR-02597,2023-06-21,Hyderabad,Tablet,Books,27,0,1,4856.73,2.9,0,0,buy online,0,1
+SES-00778,USR-05625,2023-03-03,Hyderabad,Mobile,Beauty,25,5,0,2225.89,16.9,0,0,discount,0,0
+SES-00779,USR-07766,2024-05-06,Delhi,Tablet,Grocery,14,1,1,0,3.7,0,1,top rated,0,0
+SES-00780,USR-03595,2023-11-21,Chennai,Tablet,Sports,12,2,1,3722.49,22.0,0,0,cheap sports,0,0
+SES-00781,USR-07200,2024-05-26,Hyderabad,Mobile,Clothing,23,3,1,2939.88,34.4,0,0,,0,0
+SES-00782,USR-00860,2024-08-28,Mumbai,Tablet,Home & Kitchen,2,5,1,0,43.1,0,1,,0,1
+SES-00783,USR-03946,2023-07-11,Pune,Mobile,Sports,29,3,0,4018.81,11.2,0,0,top rated,1,0
+SES-00784,USR-01815,2024-01-05,Chennai,Mobile,Sports,25,0,1,2726.94,2.4,0,0,discount,0,1
+SES-00785,USR-00443,2024-06-22,Bengaluru,Tablet,Electronics,17,4,1,4277.11,8.0,0,1,cheap electronics,1,1
+SES-00786,USR-01003,2024-01-18,Kolkata,Mobile,Home & Kitchen,9,1,1,3280.68,24.5,0,1,cheap home & kitchen,0,1
+SES-00787,USR-03628,2024-03-01,Pune,Mobile,Toys,27,4,0,0,11.9,0,0,top rated,0,1
+SES-00788,USR-01756,2023-08-19,Kolkata,Tablet,Home & Kitchen,27,2,1,0,23.1,0,1,discount,1,1
+SES-00789,USR-05826,2024-07-07,Hyderabad,Desktop,Home & Kitchen,13,1,1,7550.39,31.7,1,1,,0,0
+SES-00790,USR-01667,2024-07-24,Jaipur,Mobile,Grocery,26,1,1,0,9.3,1,1,top rated,0,1
+SES-00791,USR-02595,2024-09-06,Chennai,Desktop,Auto,25,1,1,899.32,25.5,0,0,,0,1
+SES-00792,USR-05208,2023-10-17,Delhi,Mobile,Electronics,12,5,1,8109.5,27.3,1,0,top rated,0,0
+SES-00793,USR-02003,2023-08-05,Bengaluru,Desktop,Beauty,30,3,0,0,10.9,0,1,,1,1
+SES-00794,USR-07195,2023-11-06,Bengaluru,Mobile,Sports,27,0,0,0,14.9,1,0,buy online,0,0
+SES-00795,USR-04560,2023-06-12,Delhi,Mobile,Clothing,18,5,0,0,34.8,1,0,,1,0
+SES-00796,USR-01621,2024-01-13,Ahmedabad,Mobile,Clothing,1,1,1,0,44.1,0,0,,1,1
+SES-00797,USR-02773,2023-02-19,Hyderabad,Mobile,Furniture,19,5,0,5899.74,41.8,0,1,best furniture,0,1
+SES-00798,USR-03949,2023-05-19,Hyderabad,Tablet,Books,28,0,1,1322.64,34.4,0,0,,0,0
+SES-00799,USR-07030,2023-12-31,Delhi,Mobile,Furniture,15,1,1,0,35.9,1,0,cheap furniture,1,1
+SES-00800,USR-01468,2023-08-03,Jaipur,Mobile,Beauty,22,3,0,2999.47,10.4,0,0,,1,1
+SES-00801,USR-02562,2024-12-10,Delhi,Tablet,Furniture,30,3,1,7320.45,18.6,0,0,discount,1,0
+SES-00802,USR-04412,2023-08-28,Kolkata,Tablet,Beauty,14,2,1,5514.33,41.6,0,0,best beauty,0,1
+SES-00803,USR-04690,2024-12-21,Hyderabad,Tablet,Clothing,16,3,1,5357.98,8.6,1,0,buy online,0,1
+SES-00804,USR-01304,2023-12-20,Chennai,Tablet,Beauty,20,2,1,1298.22,20.8,0,1,,0,1
+SES-00805,USR-04004,2023-09-06,Delhi,Mobile,Books,5,5,0,0,39.5,1,1,discount,1,0
+SES-00806,USR-00556,2024-07-22,Kochi,Mobile,Electronics,24,3,0,0,18.8,0,0,,0,0
+SES-00807,USR-06462,2024-02-07,Kochi,Tablet,Books,29,4,1,4520.92,8.3,0,0,top rated,0,1
+SES-00808,USR-06297,2024-04-14,Kolkata,Desktop,Auto,16,0,0,3455.71,8.0,0,0,cheap auto,1,0
+SES-00809,USR-02268,2023-04-06,Chennai,Mobile,Sports,29,0,1,487.62,35.8,0,1,best sports,0,1
+SES-00810,USR-04382,2024-06-13,Delhi,Desktop,Grocery,13,1,1,2770.56,31.1,0,1,,0,0
+SES-00811,USR-04182,2023-08-29,Pune,Mobile,Home & Kitchen,18,1,1,8286.41,21.5,0,0,cheap home & kitchen,0,0
+SES-00812,USR-04393,2024-02-28,Pune,Mobile,Books,29,4,1,8257.16,41.8,1,0,cheap books,1,1
+SES-00813,USR-00335,2023-07-20,Kochi,Mobile,Home & Kitchen,19,5,1,4781.81,21.3,0,0,buy online,1,1
+SES-00814,USR-00466,2024-11-16,Kochi,Desktop,Clothing,16,4,0,1044.08,34.2,1,0,discount,0,1
+SES-00815,USR-01978,2024-02-08,Pune,Mobile,Beauty,1,5,0,6341.11,31.3,0,1,buy online,0,0
+SES-00816,USR-05840,2024-12-10,Pune,Tablet,Clothing,4,5,1,0,11.1,1,1,cheap clothing,0,1
+SES-00817,USR-02572,2023-03-05,Kolkata,Desktop,Books,6,3,0,3396.61,34.3,1,1,discount,1,0
+SES-00818,USR-05313,2023-12-18,Jaipur,Mobile,Electronics,21,2,1,4326.36,6.7,0,0,cheap electronics,1,0
+SES-00819,USR-02423,2023-01-17,Jaipur,Mobile,Beauty,22,3,1,2189.46,18.4,0,0,discount,1,1
+SES-00820,USR-03311,2024-01-22,Ahmedabad,Tablet,Auto,10,4,1,8418.54,14.9,1,1,,1,1
+SES-00821,USR-07624,2024-02-16,Ahmedabad,Desktop,Books,4,0,0,0,44.5,0,0,top rated,0,1
+SES-00822,USR-05031,2023-11-09,Kolkata,Desktop,Auto,7,4,1,2562.54,37.0,0,1,,0,1
+SES-00823,USR-02513,2024-11-22,Chennai,Desktop,Grocery,6,2,0,6993.23,41.2,1,0,buy online,0,0
+SES-00824,USR-04843,2023-09-05,Ahmedabad,Desktop,Sports,26,3,1,0,3.2,0,1,,0,0
+SES-00825,USR-04317,2023-07-09,Ahmedabad,Tablet,Home & Kitchen,15,0,1,0,16.3,0,1,,0,1
+SES-00826,USR-06751,2024-10-04,Delhi,Desktop,Auto,30,3,0,0,40.1,0,0,top rated,0,0
+SES-00827,USR-06611,2024-06-15,Hyderabad,Mobile,Toys,7,5,1,2344.04,22.9,0,1,discount,0,1
+SES-00828,USR-01056,2024-06-14,Bengaluru,Tablet,Clothing,18,2,1,0,1.0,1,1,best clothing,0,1
+SES-00829,USR-00984,2023-04-26,Hyderabad,Tablet,Home & Kitchen,11,4,1,4532.1,15.4,0,0,,1,1
+SES-00830,USR-06136,2024-09-25,Jaipur,Mobile,Auto,13,1,1,7929.7,35.2,1,1,,0,0
+SES-00831,USR-01001,2023-06-03,Kochi,Mobile,Electronics,1,2,1,7823.74,25.7,0,0,top rated,0,1
+SES-00832,USR-07552,2023-02-04,Ahmedabad,Mobile,Beauty,27,5,1,7415.06,42.3,0,0,discount,0,0
+SES-00833,USR-07085,2023-03-01,Delhi,Desktop,Home & Kitchen,1,3,0,6867.97,10.9,0,0,discount,0,1
+SES-00834,USR-01280,2024-01-31,Chennai,Tablet,Furniture,4,5,1,2522.35,7.5,0,0,,0,1
+SES-00835,USR-02222,2024-09-04,Kochi,Mobile,Toys,18,0,1,4846.18,11.3,0,1,,0,0
+SES-00836,USR-01253,2023-01-26,Delhi,Mobile,Clothing,6,0,0,2814.51,7.4,0,0,top rated,0,1
+SES-00837,USR-05481,2023-02-04,Pune,Desktop,Clothing,8,5,1,0,32.7,1,0,buy online,0,0
+SES-00838,USR-05520,2024-03-24,Jaipur,Mobile,Sports,25,2,0,4402.03,26.8,0,1,,1,0
+SES-00839,USR-04543,2023-07-29,Chennai,Mobile,Grocery,20,2,1,6272.03,44.4,0,1,,1,1
+SES-00840,USR-07923,2024-04-13,Hyderabad,Mobile,Sports,7,0,1,0,28.8,0,0,,1,1
+SES-00841,USR-03848,2024-04-26,Ahmedabad,Mobile,Books,26,4,1,519.11,42.6,0,0,top rated,1,1
+SES-00842,USR-04557,2024-10-16,Hyderabad,Desktop,Sports,27,4,0,0,29.8,1,0,,0,1
+SES-00843,USR-02834,2023-06-21,Jaipur,Mobile,Grocery,13,1,1,7472.18,27.4,0,0,top rated,0,1
+SES-00844,USR-03019,2023-03-30,Kolkata,Mobile,Books,17,0,1,0,42.3,0,0,top rated,1,0
+SES-00845,USR-07909,2023-01-03,Jaipur,Mobile,Clothing,27,3,0,7509.39,43.0,1,1,cheap clothing,1,1
+SES-00846,USR-05426,2024-12-08,Chennai,Mobile,Home & Kitchen,18,1,0,5809.12,33.2,0,0,discount,1,1
+SES-00847,USR-06925,2024-06-11,Hyderabad,Mobile,Auto,23,2,1,0,4.8,1,0,,1,0
+SES-00848,USR-03280,2024-03-06,Jaipur,Tablet,Toys,24,1,1,7759.37,17.4,0,1,,1,0
+SES-00849,USR-00533,2024-09-15,Pune,Mobile,Grocery,8,3,0,6409.08,33.3,0,1,cheap grocery,0,0
+SES-00850,USR-07631,2024-02-02,Jaipur,Mobile,Furniture,29,3,0,2468.81,32.8,0,0,,0,1
+SES-00851,USR-01826,2024-05-14,Kochi,Mobile,Books,17,5,1,0,25.9,0,0,,0,1
+SES-00852,USR-02175,2024-10-05,Ahmedabad,Tablet,Clothing,7,4,1,3241.77,25.6,0,0,,0,1
+SES-00853,USR-03992,2023-10-24,Mumbai,Desktop,Auto,17,2,1,0,7.0,0,0,cheap auto,0,0
+SES-00854,USR-04374,2023-06-26,Ahmedabad,Mobile,Auto,2,0,1,8893.29,43.6,0,1,buy online,1,0
+SES-00855,USR-04312,2024-08-10,Kochi,Mobile,Electronics,3,0,1,0,42.6,0,0,cheap electronics,0,0
+SES-00856,USR-02097,2023-07-13,Pune,Mobile,Grocery,13,0,0,0,28.4,0,1,cheap grocery,1,1
+SES-00857,USR-02164,2024-11-20,Hyderabad,Desktop,Books,3,3,1,906.03,5.2,1,1,top rated,0,1
+SES-00858,USR-02139,2024-07-04,Kolkata,Mobile,Grocery,22,0,1,0,43.7,0,0,,1,0
+SES-00859,USR-01255,2024-11-07,Jaipur,Mobile,Furniture,26,0,1,0,6.1,0,1,top rated,0,0
+SES-00860,USR-05381,2023-11-30,Ahmedabad,Tablet,Beauty,13,2,0,0,42.3,0,0,discount,0,0
+SES-00861,USR-06204,2024-03-09,Bengaluru,Mobile,Sports,4,3,1,0,2.3,0,1,buy online,0,0
+SES-00862,USR-04784,2024-02-03,Chennai,Tablet,Clothing,9,0,1,0,30.3,0,1,top rated,1,0
+SES-00863,USR-03337,2023-03-06,Hyderabad,Mobile,Electronics,30,0,1,0,39.5,0,0,cheap electronics,1,1
+SES-00864,USR-05918,2024-10-12,Kolkata,Mobile,Grocery,24,4,1,4886.59,18.5,0,1,best grocery,0,0
+SES-00865,USR-00737,2023-02-18,Bengaluru,Desktop,Electronics,2,2,0,0,26.1,0,0,cheap electronics,0,0
+SES-00866,USR-02978,2023-07-01,Bengaluru,Mobile,Beauty,6,2,1,1817.54,29.7,1,0,top rated,0,0
+SES-00867,USR-02372,2024-08-22,Hyderabad,Tablet,Grocery,2,5,1,7671.46,23.7,0,0,buy online,0,0
+SES-00868,USR-03663,2023-10-11,Bengaluru,Desktop,Electronics,22,3,1,0,29.1,0,0,top rated,1,1
+SES-00869,USR-00935,2024-01-07,Kolkata,Mobile,Grocery,10,0,1,5223.82,2.9,0,0,cheap grocery,0,1
+SES-00870,USR-00441,2024-01-09,Chennai,Mobile,Books,21,0,1,2959.95,23.5,0,1,buy online,0,1
+SES-00871,USR-06110,2024-12-15,Hyderabad,Tablet,Furniture,5,0,1,0,16.1,1,0,,0,1
+SES-00872,USR-00842,2024-05-12,Pune,Mobile,Books,12,5,0,0,36.3,0,1,discount,1,0
+SES-00873,USR-00215,2023-06-14,Hyderabad,Mobile,Furniture,10,5,0,0,13.8,1,1,best furniture,1,1
+SES-00874,USR-06499,2024-07-06,Delhi,Mobile,Grocery,19,4,1,0,5.7,0,0,discount,0,1
+SES-00875,USR-00965,2024-06-13,Chennai,Tablet,Clothing,13,1,1,5828.54,25.6,0,0,buy online,0,0
+SES-00876,USR-02820,2023-11-15,Pune,Mobile,Beauty,16,3,0,2067.14,6.0,0,0,best beauty,0,0
+SES-00877,USR-06098,2023-04-10,Delhi,Tablet,Grocery,26,5,0,0,9.2,0,1,,0,0
+SES-00878,USR-06411,2023-11-16,Chennai,Tablet,Books,10,5,1,4584.74,43.7,0,0,,1,0
+SES-00879,USR-01357,2023-07-25,Pune,Tablet,Home & Kitchen,17,0,1,806.82,13.3,0,1,,0,1
+SES-00880,USR-00170,2023-01-02,Kochi,Tablet,Home & Kitchen,16,3,1,0,22.9,1,0,top rated,1,1
+SES-00881,USR-00395,2024-05-20,Pune,Desktop,Beauty,9,5,0,7208.62,12.1,0,0,buy online,0,1
+SES-00882,USR-06688,2024-05-26,Ahmedabad,Mobile,Toys,21,4,0,0,29.8,0,0,best toys,1,0
+SES-00883,USR-06005,2024-10-12,Pune,Mobile,Sports,28,2,1,0,12.8,0,0,discount,0,1
+SES-00884,USR-00899,2024-02-06,Hyderabad,Mobile,Grocery,11,0,0,0,32.1,1,0,,0,1
+SES-00885,USR-03690,2024-09-14,Kochi,Desktop,Home & Kitchen,9,0,1,0,38.6,0,0,buy online,1,1
+SES-00886,USR-03359,2023-12-07,Kochi,Mobile,Furniture,29,0,0,2835.64,35.6,0,0,best furniture,1,0
+SES-00887,USR-04103,2024-02-02,Bengaluru,Mobile,Auto,8,4,1,0,32.9,0,0,best auto,0,0
+SES-00888,USR-06404,2023-10-14,Kolkata,Mobile,Clothing,3,1,1,0,30.0,0,0,buy online,0,1
+SES-00889,USR-02664,2024-12-26,Kolkata,Mobile,Sports,13,4,0,0,7.8,0,0,buy online,0,1
+SES-00890,USR-01443,2024-08-29,Ahmedabad,Mobile,Electronics,12,3,1,6874.94,16.4,0,0,buy online,1,0
+SES-00891,USR-07711,2023-10-18,Delhi,Tablet,Auto,16,5,0,0,25.3,0,0,discount,1,0
+SES-00892,USR-02259,2023-05-18,Ahmedabad,Mobile,Beauty,11,4,1,8110.86,17.7,0,0,,1,1
+SES-00893,USR-04599,2024-03-21,Delhi,Tablet,Beauty,27,4,1,7064.38,7.3,0,0,best beauty,1,1
+SES-00894,USR-05699,2024-09-24,Jaipur,Mobile,Books,8,4,0,3628.03,21.3,0,0,cheap books,0,0
+SES-00895,USR-06094,2024-12-18,Bengaluru,Tablet,Home & Kitchen,26,4,0,0,8.2,0,0,,1,1
+SES-00896,USR-06277,2023-07-29,Bengaluru,Desktop,Home & Kitchen,11,3,0,4747.95,6.3,0,0,buy online,1,1
+SES-00897,USR-07431,2023-05-25,Delhi,Desktop,Home & Kitchen,16,0,1,0,19.2,0,0,discount,1,0
+SES-00898,USR-01654,2024-10-16,Mumbai,Desktop,Electronics,9,3,0,607.83,32.6,1,1,top rated,0,1
+SES-00899,USR-01186,2023-07-18,Jaipur,Tablet,Electronics,9,0,0,3527.93,30.8,0,1,,0,1
+SES-00900,USR-06405,2024-04-07,Hyderabad,Mobile,Books,15,4,0,0,32.5,0,0,buy online,1,1
+SES-00901,USR-06574,2024-04-19,Bengaluru,Desktop,Toys,2,3,1,4911.51,41.0,1,0,top rated,0,1
+SES-00902,USR-01384,2024-02-07,Delhi,Mobile,Electronics,22,2,1,7116.63,26.6,0,0,best electronics,1,1
+SES-00903,USR-01278,2023-04-29,Kochi,Mobile,Beauty,21,0,0,0,41.4,0,1,discount,1,1
+SES-00904,USR-05876,2023-12-12,Delhi,Desktop,Home & Kitchen,4,0,1,5304.16,4.7,0,0,discount,1,0
+SES-00905,USR-01483,2023-06-26,Bengaluru,Mobile,Furniture,25,5,1,0,42.7,0,0,discount,0,1
+SES-00906,USR-05742,2024-08-07,Chennai,Mobile,Home & Kitchen,3,1,0,3952.08,32.7,0,1,,0,0
+SES-00907,USR-02610,2024-03-15,Mumbai,Mobile,Electronics,28,2,1,0,29.5,0,1,discount,0,0
+SES-00908,USR-06935,2023-11-18,Chennai,Tablet,Furniture,2,2,1,0,4.6,0,0,cheap furniture,0,0
+SES-00909,USR-06420,2023-02-02,Jaipur,Mobile,Books,4,2,1,6593.0,25.4,0,0,buy online,1,1
+SES-00910,USR-06980,2023-05-04,Hyderabad,Desktop,Home & Kitchen,23,0,1,8421.85,15.4,0,0,best home & kitchen,0,1
+SES-00911,USR-02103,2024-02-01,Delhi,Tablet,Beauty,30,2,0,8594.47,19.5,0,0,top rated,0,1
+SES-00912,USR-01984,2024-05-11,Bengaluru,Tablet,Auto,6,0,1,3840.62,18.8,0,1,discount,0,1
+SES-00913,USR-04071,2023-04-07,Ahmedabad,Tablet,Home & Kitchen,24,2,1,981.58,41.4,0,0,,1,1
+SES-00914,USR-00444,2023-08-03,Mumbai,Mobile,Clothing,3,4,1,5407.18,26.9,1,0,best clothing,0,1
+SES-00915,USR-00457,2023-01-27,Kochi,Desktop,Clothing,25,3,0,6824.77,19.3,0,0,best clothing,0,1
+SES-00916,USR-01229,2023-08-13,Kolkata,Mobile,Electronics,21,0,1,1873.31,27.4,0,0,best electronics,0,1
+SES-00917,USR-06819,2023-09-23,Chennai,Tablet,Books,7,2,0,6005.6,10.9,0,1,buy online,0,0
+SES-00918,USR-06619,2023-04-28,Ahmedabad,Mobile,Beauty,12,4,1,0,17.1,0,0,buy online,1,1
+SES-00919,USR-07746,2024-04-21,Mumbai,Mobile,Electronics,22,2,1,4126.05,30.6,0,0,,1,1
+SES-00920,USR-07042,2023-11-11,Jaipur,Desktop,Books,14,4,0,4755.4,17.3,0,0,best books,0,0
+SES-00921,USR-07712,2024-08-29,Mumbai,Tablet,Toys,6,0,1,2265.7,9.4,0,0,,1,1
+SES-00922,USR-02871,2024-04-26,Delhi,Tablet,Toys,30,3,1,6111.55,37.0,1,1,best toys,0,0
+SES-00923,USR-00915,2024-03-07,Bengaluru,Mobile,Home & Kitchen,23,0,1,6375.52,40.1,0,0,discount,0,1
+SES-00924,USR-03562,2023-07-22,Bengaluru,Mobile,Clothing,2,4,0,0,32.9,1,0,best clothing,1,1
+SES-00925,USR-04506,2023-02-27,Kochi,Tablet,Furniture,5,2,0,8545.54,1.1,0,0,buy online,0,1
+SES-00926,USR-00521,2024-01-14,Mumbai,Mobile,Home & Kitchen,5,0,0,8144.98,5.3,0,0,cheap home & kitchen,0,1
+SES-00927,USR-00655,2023-07-31,Pune,Tablet,Electronics,30,5,1,3664.82,41.7,0,1,buy online,0,0
+SES-00928,USR-00840,2024-11-30,Pune,Mobile,Grocery,26,0,1,0,25.4,0,0,,0,1
+SES-00929,USR-07624,2024-06-22,Jaipur,Mobile,Sports,9,3,0,7474.62,40.8,0,0,,1,1
+SES-00930,USR-01369,2024-07-25,Kolkata,Mobile,Beauty,22,1,1,0,13.4,0,0,cheap beauty,0,0
+SES-00931,USR-06456,2024-07-12,Jaipur,Mobile,Home & Kitchen,1,4,0,0,42.0,1,0,,1,0
+SES-00932,USR-03831,2024-01-20,Pune,Tablet,Clothing,2,1,1,1228.67,23.3,0,0,,1,1
+SES-00933,USR-04368,2024-01-09,Delhi,Mobile,Furniture,16,1,0,6934.54,41.4,0,1,cheap furniture,0,0
+SES-00934,USR-07038,2024-11-30,Delhi,Desktop,Sports,19,2,1,0,37.5,0,0,discount,0,1
+SES-00935,USR-02416,2024-05-30,Kochi,Desktop,Electronics,18,3,1,8837.5,9.8,0,0,,1,1
+SES-00936,USR-03937,2024-10-04,Kolkata,Mobile,Toys,3,2,1,6752.05,35.4,1,0,discount,0,1
+SES-00937,USR-03263,2024-04-25,Bengaluru,Tablet,Sports,10,4,0,6789.94,10.2,1,0,top rated,0,1
+SES-00938,USR-07495,2023-05-14,Ahmedabad,Mobile,Electronics,19,0,0,2908.92,40.1,0,1,buy online,0,0
+SES-00939,USR-06066,2023-12-17,Jaipur,Tablet,Home & Kitchen,1,2,0,2044.86,8.1,0,0,,0,0
+SES-00940,USR-00512,2023-06-23,Kolkata,Mobile,Home & Kitchen,21,4,1,2839.69,39.8,1,0,buy online,1,0
+SES-00941,USR-05171,2024-12-28,Ahmedabad,Tablet,Beauty,29,2,1,4132.99,18.6,0,1,,0,1
+SES-00942,USR-00070,2023-01-30,Kochi,Desktop,Beauty,14,2,0,5926.14,19.7,0,0,cheap beauty,0,0
+SES-00943,USR-04380,2024-08-20,Pune,Tablet,Grocery,24,0,1,3009.05,12.7,0,1,cheap grocery,1,0
+SES-00944,USR-02079,2023-02-08,Ahmedabad,Mobile,Books,30,3,1,0,40.1,0,0,buy online,0,1
+SES-00945,USR-04055,2023-09-25,Hyderabad,Mobile,Electronics,1,1,1,0,42.4,0,1,best electronics,0,1
+SES-00946,USR-07420,2023-11-21,Hyderabad,Tablet,Auto,14,4,1,0,31.2,0,0,,1,0
+SES-00947,USR-04611,2023-04-18,Mumbai,Mobile,Clothing,2,2,1,4525.68,20.1,0,0,best clothing,0,0
+SES-00948,USR-05598,2024-04-07,Kochi,Mobile,Grocery,27,3,0,2121.31,39.9,0,0,best grocery,0,1
+SES-00949,USR-01606,2024-10-14,Chennai,Mobile,Furniture,20,3,0,915.6,19.3,0,0,top rated,0,0
+SES-00950,USR-03027,2024-10-19,Delhi,Mobile,Books,26,2,0,0,34.4,0,0,discount,1,0
+SES-00951,USR-02613,2023-04-06,Ahmedabad,Mobile,Beauty,25,2,1,0,37.9,1,1,best beauty,0,1
+SES-00952,USR-00044,2024-01-20,Kolkata,Desktop,Beauty,22,1,0,0,44.0,0,0,buy online,1,1
+SES-00953,USR-06907,2023-03-24,Delhi,Desktop,Auto,8,1,1,6115.73,23.5,1,0,best auto,0,1
+SES-00954,USR-03705,2024-07-19,Jaipur,Mobile,Books,28,4,0,7136.11,3.6,0,1,buy online,0,0
+SES-00955,USR-04620,2024-07-18,Mumbai,Tablet,Home & Kitchen,13,5,1,602.55,33.6,0,0,discount,0,1
+SES-00956,USR-02623,2024-08-31,Kolkata,Desktop,Beauty,28,3,1,0,43.0,1,1,,0,0
+SES-00957,USR-02287,2023-12-19,Bengaluru,Mobile,Furniture,20,2,0,0,10.2,0,0,best furniture,1,1
+SES-00958,USR-07103,2023-12-03,Hyderabad,Desktop,Beauty,16,1,1,8904.96,12.9,0,1,discount,1,1
+SES-00959,USR-07899,2023-07-12,Ahmedabad,Tablet,Clothing,4,3,1,4163.2,22.9,0,0,cheap clothing,0,0
+SES-00960,USR-05107,2023-08-09,Hyderabad,Mobile,Home & Kitchen,30,4,1,7618.72,17.5,0,0,discount,1,0
+SES-00961,USR-00273,2024-11-06,Pune,Desktop,Electronics,8,0,1,0,23.9,1,0,top rated,0,0
+SES-00962,USR-06096,2024-01-21,Pune,Desktop,Auto,26,0,0,0,19.7,0,0,best auto,0,1
+SES-00963,USR-00781,2024-02-15,Hyderabad,Mobile,Toys,11,4,0,5611.99,4.5,0,0,discount,0,0
+SES-00964,USR-02054,2023-06-28,Pune,Mobile,Books,19,4,0,292.89,40.1,0,0,,0,0
+SES-00965,USR-07027,2023-01-19,Bengaluru,Mobile,Sports,17,0,1,1688.05,3.8,0,0,cheap sports,0,0
+SES-00966,USR-01272,2023-10-17,Bengaluru,Mobile,Grocery,6,2,1,8373.44,38.4,0,0,best grocery,0,1
+SES-00967,USR-07411,2024-02-21,Delhi,Desktop,Sports,29,2,1,3514.55,43.6,0,0,discount,0,0
+SES-00968,USR-02210,2023-12-02,Kolkata,Tablet,Grocery,20,5,1,0,27.8,0,0,,1,0
+SES-00969,USR-01215,2023-10-17,Pune,Desktop,Home & Kitchen,1,1,0,8745.37,34.1,0,0,best home & kitchen,1,1
+SES-00970,USR-02139,2024-11-04,Mumbai,Tablet,Books,21,0,1,0,5.1,0,0,buy online,1,0
+SES-00971,USR-03418,2023-09-17,Mumbai,Mobile,Home & Kitchen,11,5,1,0,25.7,1,1,buy online,1,0
+SES-00972,USR-07835,2023-07-30,Pune,Mobile,Electronics,25,1,1,7878.72,30.7,0,0,top rated,0,1
+SES-00973,USR-00956,2023-10-17,Mumbai,Mobile,Beauty,30,3,1,8787.29,25.5,0,1,cheap beauty,0,0
+SES-00974,USR-07461,2024-02-25,Delhi,Desktop,Home & Kitchen,18,2,0,6550.55,6.2,1,1,buy online,0,1
+SES-00975,USR-05032,2023-10-09,Hyderabad,Desktop,Furniture,24,2,1,0,37.6,1,0,,1,1
+SES-00976,USR-02204,2024-04-18,Pune,Desktop,Books,21,3,1,5391.32,28.3,0,0,,1,0
+SES-00977,USR-02516,2023-02-25,Chennai,Desktop,Sports,9,3,1,0,2.0,0,1,discount,0,0
+SES-00978,USR-02260,2023-12-10,Bengaluru,Tablet,Grocery,8,2,0,0,14.3,0,1,best grocery,0,0
+SES-00979,USR-02944,2023-10-22,Bengaluru,Mobile,Beauty,12,3,0,5033.51,6.2,0,1,,0,1
+SES-00980,USR-07797,2023-01-28,Ahmedabad,Mobile,Books,8,5,1,8588.13,27.7,1,0,top rated,0,0
+SES-00981,USR-06038,2023-02-02,Mumbai,Mobile,Home & Kitchen,20,1,1,6715.96,22.4,0,1,buy online,1,0
+SES-00982,USR-05989,2024-04-15,Mumbai,Mobile,Auto,25,3,1,0,29.5,0,1,,0,0
+SES-00983,USR-00062,2023-09-06,Kolkata,Desktop,Home & Kitchen,8,2,1,8823.42,37.1,0,1,best home & kitchen,1,0
+SES-00984,USR-07422,2024-08-29,Delhi,Mobile,Auto,27,3,0,0,40.7,0,0,top rated,0,1
+SES-00985,USR-06761,2024-08-29,Hyderabad,Mobile,Sports,25,4,1,8396.65,36.1,1,1,,0,1
+SES-00986,USR-01474,2024-08-19,Pune,Mobile,Home & Kitchen,13,3,1,0,31.5,0,0,best home & kitchen,0,0
+SES-00987,USR-03779,2024-01-25,Pune,Mobile,Home & Kitchen,14,2,0,0,12.6,0,0,cheap home & kitchen,0,0
+SES-00988,USR-00435,2024-06-02,Hyderabad,Mobile,Clothing,15,3,0,5851.0,40.0,1,0,top rated,0,0
+SES-00989,USR-04768,2024-06-22,Bengaluru,Mobile,Grocery,28,2,1,8220.58,24.6,0,1,best grocery,0,0
+SES-00990,USR-02563,2024-03-20,Pune,Mobile,Electronics,26,5,0,2576.1,14.2,1,0,cheap electronics,0,1
+SES-00991,USR-01289,2024-11-27,Kolkata,Mobile,Sports,25,5,1,1104.58,30.3,0,1,,1,0
+SES-00992,USR-05328,2024-06-10,Delhi,Mobile,Beauty,10,3,1,6161.16,42.9,1,0,,0,0
+SES-00993,USR-06675,2023-02-27,Kolkata,Mobile,Toys,12,1,1,5721.82,3.7,0,1,best toys,1,0
+SES-00994,USR-00684,2024-11-03,Chennai,Desktop,Beauty,2,1,0,903.59,32.2,1,1,buy online,0,1
+SES-00995,USR-03998,2024-05-26,Pune,Desktop,Clothing,8,1,1,2104.12,10.8,0,0,,0,0
+SES-00996,USR-02383,2024-12-09,Bengaluru,Mobile,Auto,3,3,0,2055.94,5.8,1,1,top rated,0,0
+SES-00997,USR-04205,2024-12-01,Bengaluru,Mobile,Grocery,23,2,0,7647.28,38.6,1,1,cheap grocery,0,0
+SES-00998,USR-03332,2023-09-29,Pune,Tablet,Books,13,1,1,4209.93,13.2,0,0,buy online,1,1
+SES-00999,USR-01886,2024-01-27,Ahmedabad,Tablet,Auto,13,5,1,4585.49,4.2,0,1,cheap auto,0,1
+SES-01000,USR-04665,2023-01-25,Hyderabad,Desktop,Books,19,0,0,7941.0,44.2,1,1,buy online,0,1

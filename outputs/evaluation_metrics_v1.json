@@ -1,0 +1,13 @@
+{
+    "model_name": "Logistic Regression",
+    "version": "v1",
+    "training_samples": 852,
+    "test_samples": 148,
+    "accuracy": 0.9662162162162162,
+    "macro_precision": 0.9699754901960785,
+    "macro_recall": 0.7916666666666666,
+    "macro_f1": 0.8330928330928331,
+    "selection_metric": "macro_f1",
+    "split_method": "GroupShuffleSplit",
+    "random_state": 42
+}

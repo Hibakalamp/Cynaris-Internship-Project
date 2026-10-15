@@ -1,0 +1,235 @@
+review_id,review_text,actual_sentiment,predicted_sentiment
+REV-0020,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0023,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0025,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0035,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0037,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0039,Disappointed with quality. Not worth the price.,negative,negative
+REV-0044,Disappointed with quality. Not worth the price.,negative,negative
+REV-0045,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0052,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0053,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0054,Disappointed with quality. Not worth the price.,negative,negative
+REV-0060,Disappointed with quality. Not worth the price.,negative,negative
+REV-0061,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0063,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0064,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0072,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0077,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0081,Disappointed with quality. Not worth the price.,negative,negative
+REV-0083,Disappointed with quality. Not worth the price.,negative,negative
+REV-0084,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0090,Disappointed with quality. Not worth the price.,negative,negative
+REV-0095,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0097,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0099,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0115,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0119,Disappointed with quality. Not worth the price.,negative,negative
+REV-0120,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0121,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0125,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0126,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0127,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0129,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0133,Disappointed with quality. Not worth the price.,negative,negative
+REV-0138,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0140,Disappointed with quality. Not worth the price.,negative,negative
+REV-0141,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0143,Disappointed with quality. Not worth the price.,negative,negative
+REV-0164,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0165,Disappointed with quality. Not worth the price.,negative,negative
+REV-0169,Disappointed with quality. Not worth the price.,negative,negative
+REV-0170,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0173,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0179,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0186,Disappointed with quality. Not worth the price.,negative,negative
+REV-0187,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0196,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0199,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0201,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0202,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0204,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0206,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0210,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0213,Disappointed with quality. Not worth the price.,negative,negative
+REV-0215,Disappointed with quality. Not worth the price.,negative,negative
+REV-0217,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0219,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0221,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0223,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0224,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0229,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0232,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0234,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0237,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0238,Disappointed with quality. Not worth the price.,negative,negative
+REV-0239,Disappointed with quality. Not worth the price.,negative,negative
+REV-0250,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0259,Disappointed with quality. Not worth the price.,negative,negative
+REV-0260,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0270,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0271,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0273,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0283,Disappointed with quality. Not worth the price.,negative,negative
+REV-0286,Disappointed with quality. Not worth the price.,negative,negative
+REV-0287,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0289,Disappointed with quality. Not worth the price.,negative,negative
+REV-0293,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0294,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0302,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0306,Disappointed with quality. Not worth the price.,negative,negative
+REV-0308,Disappointed with quality. Not worth the price.,negative,negative
+REV-0310,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0320,Disappointed with quality. Not worth the price.,negative,negative
+REV-0331,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0335,Disappointed with quality. Not worth the price.,negative,negative
+REV-0338,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0348,Disappointed with quality. Not worth the price.,negative,negative
+REV-0354,Disappointed with quality. Not worth the price.,negative,negative
+REV-0357,Disappointed with quality. Not worth the price.,negative,negative
+REV-0365,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0371,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0374,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0375,Disappointed with quality. Not worth the price.,negative,negative
+REV-0384,Disappointed with quality. Not worth the price.,negative,negative
+REV-0388,Disappointed with quality. Not worth the price.,negative,negative
+REV-0390,Disappointed with quality. Not worth the price.,negative,negative
+REV-0392,Disappointed with quality. Not worth the price.,negative,negative
+REV-0397,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0400,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0405,Disappointed with quality. Not worth the price.,negative,negative
+REV-0408,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0409,Disappointed with quality. Not worth the price.,negative,negative
+REV-0419,Disappointed with quality. Not worth the price.,negative,negative
+REV-0431,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0432,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0436,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0438,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0444,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0449,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0458,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0459,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0462,Disappointed with quality. Not worth the price.,negative,negative
+REV-0470,Disappointed with quality. Not worth the price.,negative,negative
+REV-0471,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0472,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0473,Disappointed with quality. Not worth the price.,negative,negative
+REV-0480,Disappointed with quality. Not worth the price.,negative,negative
+REV-0481,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0484,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0494,Disappointed with quality. Not worth the price.,negative,negative
+REV-0501,Disappointed with quality. Not worth the price.,negative,negative
+REV-0502,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0507,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0522,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0523,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0526,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0528,Disappointed with quality. Not worth the price.,negative,negative
+REV-0537,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0540,Disappointed with quality. Not worth the price.,negative,negative
+REV-0542,Disappointed with quality. Not worth the price.,negative,negative
+REV-0543,Disappointed with quality. Not worth the price.,negative,negative
+REV-0544,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0549,Disappointed with quality. Not worth the price.,negative,negative
+REV-0557,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0568,Disappointed with quality. Not worth the price.,negative,negative
+REV-0572,Disappointed with quality. Not worth the price.,negative,negative
+REV-0573,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0574,Disappointed with quality. Not worth the price.,negative,negative
+REV-0585,Disappointed with quality. Not worth the price.,negative,negative
+REV-0589,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0590,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0595,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0598,Disappointed with quality. Not worth the price.,negative,negative
+REV-0600,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0601,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0603,Disappointed with quality. Not worth the price.,negative,negative
+REV-0605,Disappointed with quality. Not worth the price.,negative,negative
+REV-0607,Disappointed with quality. Not worth the price.,negative,negative
+REV-0608,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0613,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0619,Disappointed with quality. Not worth the price.,negative,negative
+REV-0623,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0626,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0627,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0630,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0635,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0636,Disappointed with quality. Not worth the price.,negative,negative
+REV-0637,Disappointed with quality. Not worth the price.,negative,negative
+REV-0644,Disappointed with quality. Not worth the price.,negative,negative
+REV-0651,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0655,Disappointed with quality. Not worth the price.,negative,negative
+REV-0656,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0666,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0668,Disappointed with quality. Not worth the price.,negative,negative
+REV-0672,Disappointed with quality. Not worth the price.,negative,negative
+REV-0674,Disappointed with quality. Not worth the price.,negative,negative
+REV-0675,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0677,Disappointed with quality. Not worth the price.,negative,negative
+REV-0689,Disappointed with quality. Not worth the price.,negative,negative
+REV-0699,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0703,Disappointed with quality. Not worth the price.,negative,negative
+REV-0707,Disappointed with quality. Not worth the price.,negative,negative
+REV-0711,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0712,Disappointed with quality. Not worth the price.,negative,negative
+REV-0717,Disappointed with quality. Not worth the price.,negative,negative
+REV-0719,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0722,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0725,Disappointed with quality. Not worth the price.,negative,negative
+REV-0726,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0732,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0733,Disappointed with quality. Not worth the price.,negative,negative
+REV-0735,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0739,Disappointed with quality. Not worth the price.,negative,negative
+REV-0742,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0743,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0747,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0749,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0750,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0756,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0759,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0760,Disappointed with quality. Not worth the price.,negative,negative
+REV-0763,Disappointed with quality. Not worth the price.,negative,negative
+REV-0765,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0767,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0768,Disappointed with quality. Not worth the price.,negative,negative
+REV-0770,Disappointed with quality. Not worth the price.,negative,negative
+REV-0777,Disappointed with quality. Not worth the price.,negative,negative
+REV-0778,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0783,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0787,Disappointed with quality. Not worth the price.,negative,negative
+REV-0789,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0790,Disappointed with quality. Not worth the price.,negative,negative
+REV-0794,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0797,Disappointed with quality. Not worth the price.,negative,negative
+REV-0800,Excellent! Exceeded expectations. Will buy again.,positive,positive
+REV-0802,The product is acceptable for the price and everyday use. I purchased this shampoo. Review reference 002.,neutral,negative
+REV-0814,Very pleased with the performance. Definitely worth buying. I purchased this cookbook. Review reference 014.,positive,negative
+REV-0826,The product is average and works adequately for basic use. I purchased this speaker. Review reference 026.,neutral,positive
+REV-0833,Very pleased with the performance. Definitely worth buying. I purchased this lip balm. Review reference 033.,positive,negative
+REV-0838,The product is average and works adequately for basic use. I purchased this headphones. Review reference 038.,neutral,positive
+REV-0840,The product is acceptable for the price and everyday use. I purchased this serum. Review reference 040.,neutral,negative
+REV-0841,"It does the basic job, although nothing stands out. I purchased this serum. Review reference 041.",neutral,negative
+REV-0849,Very pleased with the performance. Definitely worth buying. I purchased this jeans. Review reference 049.,positive,negative
+REV-0864,The quality is average and the design is fairly simple. I purchased this sandals. Review reference 064.,neutral,positive
+REV-0870,The quality is average and the design is fairly simple. I purchased this study guide. Review reference 070.,neutral,positive
+REV-0874,Very pleased with the performance. Definitely worth buying. I purchased this coffee maker. Review reference 074.,positive,negative
+REV-0875,"It does the basic job, although nothing stands out. I purchased this wireless mouse. Review reference 075.",neutral,negative
+REV-0886,Very pleased with the performance. Definitely worth buying. I purchased this charger. Review reference 086.,positive,negative
+REV-0890,The quality is average and the design is fairly simple. I purchased this jeans. Review reference 090.,neutral,positive
+REV-0905,Very pleased with the performance. Definitely worth buying. I purchased this jacket. Review reference 105.,positive,negative
+REV-0906,Very pleased with the performance. Definitely worth buying. I purchased this coffee maker. Review reference 106.,positive,negative
+REV-0909,"It does the basic job, although nothing stands out. I purchased this storage box. Review reference 109.",neutral,negative
+REV-0925,"The product meets some needs, but could be improved. I purchased this novel. Review reference 125.",neutral,neutral
+REV-0933,Very pleased with the performance. Definitely worth buying. I purchased this coffee maker. Review reference 133.,positive,negative
+REV-0935,The product is average and works adequately for basic use. I purchased this study guide. Review reference 135.,neutral,positive
+REV-0936,"It does the basic job, although nothing stands out. I purchased this coffee maker. Review reference 136.",neutral,negative
+REV-0941,Very pleased with the performance. Definitely worth buying. I purchased this lip balm. Review reference 141.,positive,negative
+REV-0942,The product is average and works adequately for basic use. I purchased this shirt. Review reference 142.,neutral,positive
+REV-0960,The product is average and works adequately for basic use. I purchased this study guide. Review reference 160.,neutral,positive
+REV-0966,"It does the basic job, although nothing stands out. I purchased this sandals. Review reference 166.",neutral,negative
+REV-0970,The product is acceptable for the price and everyday use. I purchased this lip balm. Review reference 170.,neutral,negative
+REV-0974,The quality is average and the design is fairly simple. I purchased this face cream. Review reference 174.,neutral,positive
+REV-0979,"It does the basic job, although nothing stands out. I purchased this blender. Review reference 179.",neutral,negative
+REV-0990,"The product meets some needs, but could be improved. I purchased this shampoo. Review reference 190.",neutral,negative
+REV-0992,The quality is average and the design is fairly simple. I purchased this blender. Review reference 192.,neutral,positive

@@ -1,0 +1,149 @@
+review_id,review_text,actual_sentiment,predicted_sentiment
+REV-0038,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0040,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0046,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0047,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0068,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0074,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0082,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0092,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0098,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0107,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0118,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0136,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0146,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0157,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0158,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0177,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0180,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0184,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0188,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0189,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0194,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0200,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0226,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0228,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0244,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0245,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0249,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0253,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0256,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0258,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0264,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0266,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0275,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0277,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0279,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0284,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0290,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0296,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0298,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0301,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0304,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0326,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0330,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0332,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0333,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0339,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0341,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0342,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0349,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0363,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0366,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0385,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0387,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0393,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0402,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0404,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0406,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0412,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0413,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0468,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0476,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0478,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0479,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0482,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0489,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0491,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0492,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0495,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0504,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0505,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0513,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0516,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0519,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0529,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0531,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0547,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0555,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0562,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0564,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0567,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0578,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0591,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0592,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0612,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0615,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0616,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0617,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0618,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0620,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0638,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0681,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0682,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0685,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0688,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0693,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0694,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0698,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0704,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0734,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0744,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0746,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0748,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0754,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0774,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0785,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0791,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0796,"Great product, exactly as described. Fast delivery!",positive,positive
+REV-0804,"Quality is reasonable, but there is room for improvement. I purchased this lip balm. Review reference 004.",neutral,neutral
+REV-0807,The quality exceeded my expectations. Very satisfied with it. I purchased this serum. Review reference 007.,positive,positive
+REV-0808,"The product is reliable, easy to use, and worth the price. I purchased this speaker. Review reference 008.",positive,positive
+REV-0815,The item is close to the description and performs adequately. I purchased this water bottle. Review reference 015.,neutral,neutral
+REV-0819,Very happy with this purchase. Good quality and excellent value. I purchased this charger. Review reference 019.,positive,positive
+REV-0838,The product is average and works adequately for basic use. I purchased this headphones. Review reference 038.,neutral,positive
+REV-0850,The item arrived damaged and did not match the description. I purchased this speaker. Review reference 050.,negative,negative
+REV-0852,A great purchase overall. The design is practical and attractive. I purchased this shirt. Review reference 052.,positive,positive
+REV-0863,"Quality is reasonable, but there is room for improvement. I purchased this cookbook. Review reference 063.",neutral,neutral
+REV-0865,The product looks different from the photos. I am unhappy. I purchased this charger. Review reference 065.,negative,negative
+REV-0877,Not satisfied with the quality. It is difficult to use. I purchased this shampoo. Review reference 077.,negative,negative
+REV-0879,Good product for everyday use. It matches the description perfectly. I purchased this jacket. Review reference 079.,positive,positive
+REV-0884,Several features do not work properly. Not worth the cost. I purchased this storage box. Review reference 084.,negative,negative
+REV-0885,Several features do not work properly. Not worth the cost. I purchased this serum. Review reference 085.,negative,negative
+REV-0889,The item arrived damaged and did not match the description. I purchased this shirt. Review reference 089.,negative,negative
+REV-0896,Very happy with this purchase. Good quality and excellent value. I purchased this jeans. Review reference 096.,positive,positive
+REV-0897,The quality exceeded my expectations. Very satisfied with it. I purchased this storage box. Review reference 097.,positive,positive
+REV-0899,Poor quality and not worth the price. I would not recommend it. I purchased this coffee maker. Review reference 099.,negative,negative
+REV-0908,The item feels unreliable and I would not purchase it again. I purchased this lip balm. Review reference 108.,negative,negative
+REV-0912,Several features do not work properly. Not worth the cost. I purchased this lip balm. Review reference 112.,negative,negative
+REV-0913,Excellent product with a nice finish. I would buy it again. I purchased this coffee maker. Review reference 113.,positive,positive
+REV-0916,The product looks different from the photos. I am unhappy. I purchased this storage box. Review reference 116.,negative,negative
+REV-0918,The product stopped working after a few days. Very disappointing. I purchased this charger. Review reference 118.,negative,negative
+REV-0920,Excellent product with a nice finish. I would buy it again. I purchased this lip balm. Review reference 120.,positive,positive
+REV-0921,Excellent product with a nice finish. I would buy it again. I purchased this cookbook. Review reference 121.,positive,positive
+REV-0927,Very happy with this purchase. Good quality and excellent value. I purchased this water bottle. Review reference 127.,positive,positive
+REV-0929,The quality exceeded my expectations. Very satisfied with it. I purchased this speaker. Review reference 129.,positive,positive
+REV-0930,The quality exceeded my expectations. Very satisfied with it. I purchased this blender. Review reference 130.,positive,positive
+REV-0934,The product stopped working after a few days. Very disappointing. I purchased this blender. Review reference 134.,negative,negative
+REV-0936,"It does the basic job, although nothing stands out. I purchased this coffee maker. Review reference 136.",neutral,negative
+REV-0942,The product is average and works adequately for basic use. I purchased this shirt. Review reference 142.,neutral,positive
+REV-0943,The quality exceeded my expectations. Very satisfied with it. I purchased this blender. Review reference 143.,positive,positive
+REV-0945,The quality exceeded my expectations. Very satisfied with it. I purchased this shirt. Review reference 145.,positive,positive
+REV-0947,Very disappointing purchase. The finish is rough and uneven. I purchased this shampoo. Review reference 147.,negative,negative
+REV-0951,The product did not meet my expectations. Poor value for money. I purchased this study guide. Review reference 151.,negative,negative
+REV-0971,Poor quality and not worth the price. I would not recommend it. I purchased this wireless mouse. Review reference 171.,negative,negative
+REV-0974,The quality is average and the design is fairly simple. I purchased this face cream. Review reference 174.,neutral,positive
+REV-0984,Very happy with this purchase. Good quality and excellent value. I purchased this serum. Review reference 184.,positive,positive
+REV-0985,Really useful product. Delivery was quick and packaging was secure. I purchased this lip balm. Review reference 185.,positive,positive
+REV-0986,Poor quality and not worth the price. I would not recommend it. I purchased this storage box. Review reference 186.,negative,negative
+REV-0992,The quality is average and the design is fairly simple. I purchased this blender. Review reference 192.,neutral,positive

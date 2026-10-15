@@ -1,0 +1,552 @@
+[
+  {
+    "test_id": "EC-TC-001",
+    "input": {
+      "category": "Beauty",
+      "user_device": "Desktop",
+      "session_mins": 40.4,
+      "prior_purchases": 6
+    },
+    "expected_label": 0,
+    "model_target": "purchase_prediction"
+  },
+  {
+    "test_id": "EC-TC-002",
+    "input": {
+      "category": "Auto",
+      "user_device": "Mobile",
+      "session_mins": 15.5,
+      "prior_purchases": 5
+    },
+    "expected_label": 1,
+    "model_target": "purchase_prediction"
+  },
+  {
+    "test_id": "EC-TC-003",
+    "input": {
+      "category": "Grocery",
+      "user_device": "Mobile",
+      "session_mins": 33.2,
+      "prior_purchases": 10
+    },
+    "expected_label": 1,
+    "model_target": "purchase_prediction"
+  },
+  {
+    "test_id": "EC-TC-004",
+    "input": {
+      "category": "Electronics",
+      "user_device": "Mobile",
+      "session_mins": 34.9,
+      "prior_purchases": 5
+    },
+    "expected_label": 1,
+    "model_target": "purchase_prediction"
+  },
+  {
+    "test_id": "EC-TC-005",
+    "input": {
+      "category": "Toys",
+      "user_device": "Mobile",
+      "session_mins": 17.6,
+      "prior_purchases": 4
+    },
+    "expected_label": 1,
+    "model_target": "purchase_prediction"
+  },
+  {
+    "test_id": "EC-TC-006",
+    "input": {
+      "category": "Home & Kitchen",
+      "user_device": "Mobile",
+      "session_mins": 9.4,
+      "prior_purchases": 6
+    },
+    "expected_label": 1,
+    "model_target": "purchase_prediction"
+  },
+  {
+    "test_id": "EC-TC-007",
+    "input": {
+      "category": "Beauty",
+      "user_device": "Mobile",
+      "session_mins": 6.1,
+      "prior_purchases": 9
+    },
+    "expected_label": 1,
+    "model_target": "purchase_prediction"
+  },
+  {
+    "test_id": "EC-TC-008",
+    "input": {
+      "category": "Electronics",
+      "user_device": "Desktop",
+      "session_mins": 38.9,
+      "prior_purchases": 10
+    },
+    "expected_label": 1,
+    "model_target": "purchase_prediction"
+  },
+  {
+    "test_id": "EC-TC-009",
+    "input": {
+      "category": "Books",
+      "user_device": "Desktop",
+      "session_mins": 26.1,
+      "prior_purchases": 1
+    },
+    "expected_label": 0,
+    "model_target": "purchase_prediction"
+  },
+  {
+    "test_id": "EC-TC-010",
+    "input": {
+      "category": "Home & Kitchen",
+      "user_device": "Mobile",
+      "session_mins": 21.0,
+      "prior_purchases": 7
+    },
+    "expected_label": 1,
+    "model_target": "purchase_prediction"
+  },
+  {
+    "test_id": "EC-TC-011",
+    "input": {
+      "category": "Books",
+      "user_device": "Desktop",
+      "session_mins": 27.2,
+      "prior_purchases": 10
+    },
+    "expected_label": 1,
+    "model_target": "purchase_prediction"
+  },
+  {
+    "test_id": "EC-TC-012",
+    "input": {
+      "category": "Sports",
+      "user_device": "Mobile",
+      "session_mins": 20.8,
+      "prior_purchases": 5
+    },
+    "expected_label": 1,
+    "model_target": "purchase_prediction"
+  },
+  {
+    "test_id": "EC-TC-013",
+    "input": {
+      "category": "Clothing",
+      "user_device": "Mobile",
+      "session_mins": 6.5,
+      "prior_purchases": 6
+    },
+    "expected_label": 1,
+    "model_target": "purchase_prediction"
+  },
+  {
+    "test_id": "EC-TC-014",
+    "input": {
+      "category": "Sports",
+      "user_device": "Desktop",
+      "session_mins": 8.8,
+      "prior_purchases": 1
+    },
+    "expected_label": 1,
+    "model_target": "purchase_prediction"
+  },
+  {
+    "test_id": "EC-TC-015",
+    "input": {
+      "category": "Sports",
+      "user_device": "Mobile",
+      "session_mins": 16.7,
+      "prior_purchases": 5
+    },
+    "expected_label": 1,
+    "model_target": "purchase_prediction"
+  },
+  {
+    "test_id": "EC-TC-016",
+    "input": {
+      "category": "Toys",
+      "user_device": "Mobile",
+      "session_mins": 18.5,
+      "prior_purchases": 10
+    },
+    "expected_label": 0,
+    "model_target": "purchase_prediction"
+  },
+  {
+    "test_id": "EC-TC-017",
+    "input": {
+      "category": "Electronics",
+      "user_device": "Mobile",
+      "session_mins": 19.0,
+      "prior_purchases": 4
+    },
+    "expected_label": 0,
+    "model_target": "purchase_prediction"
+  },
+  {
+    "test_id": "EC-TC-018",
+    "input": {
+      "category": "Sports",
+      "user_device": "Mobile",
+      "session_mins": 6.6,
+      "prior_purchases": 7
+    },
+    "expected_label": 1,
+    "model_target": "purchase_prediction"
+  },
+  {
+    "test_id": "EC-TC-019",
+    "input": {
+      "category": "Toys",
+      "user_device": "Desktop",
+      "session_mins": 31.0,
+      "prior_purchases": 10
+    },
+    "expected_label": 0,
+    "model_target": "purchase_prediction"
+  },
+  {
+    "test_id": "EC-TC-020",
+    "input": {
+      "category": "Sports",
+      "user_device": "Desktop",
+      "session_mins": 34.7,
+      "prior_purchases": 0
+    },
+    "expected_label": 1,
+    "model_target": "purchase_prediction"
+  },
+  {
+    "test_id": "EC-TC-021",
+    "input": {
+      "category": "Toys",
+      "user_device": "Desktop",
+      "session_mins": 12.2,
+      "prior_purchases": 0
+    },
+    "expected_label": 1,
+    "model_target": "purchase_prediction"
+  },
+  {
+    "test_id": "EC-TC-022",
+    "input": {
+      "category": "Beauty",
+      "user_device": "Desktop",
+      "session_mins": 35.8,
+      "prior_purchases": 6
+    },
+    "expected_label": 0,
+    "model_target": "purchase_prediction"
+  },
+  {
+    "test_id": "EC-TC-023",
+    "input": {
+      "category": "Furniture",
+      "user_device": "Desktop",
+      "session_mins": 11.8,
+      "prior_purchases": 5
+    },
+    "expected_label": 0,
+    "model_target": "purchase_prediction"
+  },
+  {
+    "test_id": "EC-TC-024",
+    "input": {
+      "category": "Auto",
+      "user_device": "Mobile",
+      "session_mins": 33.1,
+      "prior_purchases": 6
+    },
+    "expected_label": 1,
+    "model_target": "purchase_prediction"
+  },
+  {
+    "test_id": "EC-TC-025",
+    "input": {
+      "category": "Home & Kitchen",
+      "user_device": "Mobile",
+      "session_mins": 19.5,
+      "prior_purchases": 9
+    },
+    "expected_label": 0,
+    "model_target": "purchase_prediction"
+  },
+  {
+    "test_id": "EC-TC-026",
+    "input": {
+      "category": "Grocery",
+      "user_device": "Desktop",
+      "session_mins": 33.1,
+      "prior_purchases": 2
+    },
+    "expected_label": 1,
+    "model_target": "purchase_prediction"
+  },
+  {
+    "test_id": "EC-TC-027",
+    "input": {
+      "category": "Furniture",
+      "user_device": "Desktop",
+      "session_mins": 27.5,
+      "prior_purchases": 8
+    },
+    "expected_label": 0,
+    "model_target": "purchase_prediction"
+  },
+  {
+    "test_id": "EC-TC-028",
+    "input": {
+      "category": "Furniture",
+      "user_device": "Mobile",
+      "session_mins": 8.8,
+      "prior_purchases": 3
+    },
+    "expected_label": 1,
+    "model_target": "purchase_prediction"
+  },
+  {
+    "test_id": "EC-TC-029",
+    "input": {
+      "category": "Sports",
+      "user_device": "Mobile",
+      "session_mins": 13.4,
+      "prior_purchases": 5
+    },
+    "expected_label": 1,
+    "model_target": "purchase_prediction"
+  },
+  {
+    "test_id": "EC-TC-030",
+    "input": {
+      "category": "Books",
+      "user_device": "Mobile",
+      "session_mins": 43.9,
+      "prior_purchases": 10
+    },
+    "expected_label": 0,
+    "model_target": "purchase_prediction"
+  },
+  {
+    "test_id": "EC-TC-031",
+    "input": {
+      "category": "Grocery",
+      "user_device": "Desktop",
+      "session_mins": 21.9,
+      "prior_purchases": 5
+    },
+    "expected_label": 0,
+    "model_target": "purchase_prediction"
+  },
+  {
+    "test_id": "EC-TC-032",
+    "input": {
+      "category": "Clothing",
+      "user_device": "Desktop",
+      "session_mins": 24.4,
+      "prior_purchases": 5
+    },
+    "expected_label": 1,
+    "model_target": "purchase_prediction"
+  },
+  {
+    "test_id": "EC-TC-033",
+    "input": {
+      "category": "Toys",
+      "user_device": "Desktop",
+      "session_mins": 43.5,
+      "prior_purchases": 8
+    },
+    "expected_label": 0,
+    "model_target": "purchase_prediction"
+  },
+  {
+    "test_id": "EC-TC-034",
+    "input": {
+      "category": "Furniture",
+      "user_device": "Mobile",
+      "session_mins": 26.1,
+      "prior_purchases": 1
+    },
+    "expected_label": 0,
+    "model_target": "purchase_prediction"
+  },
+  {
+    "test_id": "EC-TC-035",
+    "input": {
+      "category": "Grocery",
+      "user_device": "Desktop",
+      "session_mins": 25.3,
+      "prior_purchases": 8
+    },
+    "expected_label": 1,
+    "model_target": "purchase_prediction"
+  },
+  {
+    "test_id": "EC-TC-036",
+    "input": {
+      "category": "Toys",
+      "user_device": "Desktop",
+      "session_mins": 37.2,
+      "prior_purchases": 2
+    },
+    "expected_label": 1,
+    "model_target": "purchase_prediction"
+  },
+  {
+    "test_id": "EC-TC-037",
+    "input": {
+      "category": "Beauty",
+      "user_device": "Mobile",
+      "session_mins": 36.0,
+      "prior_purchases": 4
+    },
+    "expected_label": 0,
+    "model_target": "purchase_prediction"
+  },
+  {
+    "test_id": "EC-TC-038",
+    "input": {
+      "category": "Electronics",
+      "user_device": "Mobile",
+      "session_mins": 31.2,
+      "prior_purchases": 0
+    },
+    "expected_label": 1,
+    "model_target": "purchase_prediction"
+  },
+  {
+    "test_id": "EC-TC-039",
+    "input": {
+      "category": "Beauty",
+      "user_device": "Desktop",
+      "session_mins": 13.4,
+      "prior_purchases": 3
+    },
+    "expected_label": 0,
+    "model_target": "purchase_prediction"
+  },
+  {
+    "test_id": "EC-TC-040",
+    "input": {
+      "category": "Clothing",
+      "user_device": "Mobile",
+      "session_mins": 44.6,
+      "prior_purchases": 4
+    },
+    "expected_label": 1,
+    "model_target": "purchase_prediction"
+  },
+  {
+    "test_id": "EC-TC-041",
+    "input": {
+      "category": "Auto",
+      "user_device": "Desktop",
+      "session_mins": 40.6,
+      "prior_purchases": 2
+    },
+    "expected_label": 1,
+    "model_target": "purchase_prediction"
+  },
+  {
+    "test_id": "EC-TC-042",
+    "input": {
+      "category": "Clothing",
+      "user_device": "Desktop",
+      "session_mins": 4.5,
+      "prior_purchases": 6
+    },
+    "expected_label": 1,
+    "model_target": "purchase_prediction"
+  },
+  {
+    "test_id": "EC-TC-043",
+    "input": {
+      "category": "Home & Kitchen",
+      "user_device": "Mobile",
+      "session_mins": 44.3,
+      "prior_purchases": 4
+    },
+    "expected_label": 0,
+    "model_target": "purchase_prediction"
+  },
+  {
+    "test_id": "EC-TC-044",
+    "input": {
+      "category": "Electronics",
+      "user_device": "Desktop",
+      "session_mins": 1.0,
+      "prior_purchases": 3
+    },
+    "expected_label": 0,
+    "model_target": "purchase_prediction"
+  },
+  {
+    "test_id": "EC-TC-045",
+    "input": {
+      "category": "Toys",
+      "user_device": "Mobile",
+      "session_mins": 20.6,
+      "prior_purchases": 9
+    },
+    "expected_label": 1,
+    "model_target": "purchase_prediction"
+  },
+  {
+    "test_id": "EC-TC-046",
+    "input": {
+      "category": "Electronics",
+      "user_device": "Desktop",
+      "session_mins": 7.1,
+      "prior_purchases": 1
+    },
+    "expected_label": 1,
+    "model_target": "purchase_prediction"
+  },
+  {
+    "test_id": "EC-TC-047",
+    "input": {
+      "category": "Beauty",
+      "user_device": "Mobile",
+      "session_mins": 11.8,
+      "prior_purchases": 10
+    },
+    "expected_label": 1,
+    "model_target": "purchase_prediction"
+  },
+  {
+    "test_id": "EC-TC-048",
+    "input": {
+      "category": "Clothing",
+      "user_device": "Desktop",
+      "session_mins": 28.4,
+      "prior_purchases": 6
+    },
+    "expected_label": 1,
+    "model_target": "purchase_prediction"
+  },
+  {
+    "test_id": "EC-TC-049",
+    "input": {
+      "category": "Clothing",
+      "user_device": "Desktop",
+      "session_mins": 20.7,
+      "prior_purchases": 7
+    },
+    "expected_label": 1,
+    "model_target": "purchase_prediction"
+  },
+  {
+    "test_id": "EC-TC-050",
+    "input": {
+      "category": "Beauty",
+      "user_device": "Mobile",
+      "session_mins": 21.2,
+      "prior_purchases": 9
+    },
+    "expected_label": 0,
+    "model_target": "purchase_prediction"
+  }
+]

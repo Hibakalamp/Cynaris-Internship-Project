@@ -1,0 +1,4 @@
+Model,Accuracy
+Decision Tree,0.5726495726495726
+Random Forest,0.5641025641025641
+Logistic Regression,0.8760683760683761
